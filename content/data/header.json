@@ -92,7 +92,7 @@
                 {
                     "type": "Link",
                     "label": "Banco de libros",
-                    "altText": "",
+                    "altText": "Banco de libros",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
