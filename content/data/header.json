@@ -35,15 +35,6 @@
                     "altText": "Extraescolares"
                 },
                 {
-                    "label": "Talleres y charlas",
-                    "url": "/talleres",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Talleres"
-                },
-                {
                     "label": "Movilidad escolar",
                     "url": "/movilidad",
                     "icon": "arrowRight",
@@ -51,6 +42,15 @@
                     "style": "secondary",
                     "type": "Link",
                     "altText": "Movilidad"
+                },
+                {
+                    "label": "Talleres y charlas",
+                    "url": "/talleres",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "Talleres"
                 },
                 {
                     "type": "Link",
