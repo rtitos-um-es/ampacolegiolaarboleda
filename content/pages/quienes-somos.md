@@ -1,6 +1,6 @@
 ---
 title: Quienes somos
-slug: contacto
+slug: quienes-somos
 sections:
   - title:
       text: Misión del AMPA
