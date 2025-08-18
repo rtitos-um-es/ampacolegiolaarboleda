@@ -80,7 +80,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Recogida",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
