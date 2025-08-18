@@ -71,7 +71,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Madrugadores",
+                    "label": "Aula matinal (madrugadores)",
                     "altText": "Madrugadores",
                     "url": "/",
                     "showIcon": false,
