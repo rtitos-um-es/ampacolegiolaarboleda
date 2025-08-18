@@ -67,7 +67,7 @@
         {
             "type": "SubNav",
             "label": "Conciliación",
-            "altText": "Dropdown",
+            "altText": "Conciliación",
             "links": [
                 {
                     "type": "Link",
