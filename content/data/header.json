@@ -23,7 +23,7 @@
         {
             "label": "Blog",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/noticias",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
