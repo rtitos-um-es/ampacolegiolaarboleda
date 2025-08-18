@@ -1,5 +1,5 @@
 ---
-title: Contacto
+title: Quienes somos
 slug: contacto
 sections:
   - title:
