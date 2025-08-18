@@ -146,14 +146,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "label": "Quienes somos",
-            "url": "/quienes-somos",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [
