@@ -107,7 +107,7 @@
         },
         {
             "label": "Contacto",
-            "altText": "Careers page",
+            "altText": "Contacto",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
