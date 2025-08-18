@@ -106,6 +106,15 @@
             "labelStyle": "secondary"
         },
         {
+            "label": "Contacto",
+            "altText": "Contacto",
+            "url": "/contacto",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "type": "SubNav",
             "label": "Libros",
             "altText": "Libros de texto",
@@ -145,15 +154,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "label": "Contacto",
-            "altText": "Contacto",
-            "url": "/contacto",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [
