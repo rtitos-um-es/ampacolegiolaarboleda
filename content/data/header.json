@@ -15,7 +15,7 @@
         {
             "label": "Quienes somos",
             "altText": "Quienes somos",
-            "url": "/contacto",
+            "url": "/quienes-somos",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
