@@ -81,7 +81,7 @@
                 {
                     "type": "Link",
                     "label": "Recogida",
-                    "altText": "",
+                    "altText": "Recogida",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
