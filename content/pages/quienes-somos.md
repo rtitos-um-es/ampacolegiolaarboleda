@@ -1,6 +1,6 @@
 ---
 title: Quienes somos
-slug: pricing
+slug: quienes-somos
 sections:
   - title:
       text: Flexible Pricing
