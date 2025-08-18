@@ -2,7 +2,7 @@
     "favicon": "/images/favicon.svg",
     "footer": "content/data/footer.json",
     "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "defaultSocialImage": "/images/abstract-feature2.svg",
     "type": "Config",
     "header": "content/data/header.json"
 }

@@ -1,9 +1,9 @@
 ---
-title: Careers
-slug: careers
+title: Quienes somos
+slug: quienes-somos
 sections:
   - title:
-      text: A team that works closely together
+      text: Misión del AMPA
       color: text-dark
       styles:
         self:
@@ -47,8 +47,43 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Estatutos
+      color: text-dark
+    subtitle: Increase your reach
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - title:
-      text: Meet the team
+      text: Junta directiva
       color: text-dark
       styles:
         self:
@@ -75,7 +110,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: Comisiones
       color: text-dark
       styles:
         self:
