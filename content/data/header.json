@@ -159,7 +159,7 @@
     "secondaryLinks": [
         {
             "label": "Hazte socio",
-            "altText": "Sign up",
+            "altText": "H",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
