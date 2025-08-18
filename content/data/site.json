@@ -2,7 +2,7 @@
     "favicon": "/images/favicon.svg",
     "footer": "content/data/footer.json",
     "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "defaultSocialImage": "/images/cabecera-AMPA-CEIP-La-Arboleda.png",
     "type": "Config",
     "header": "content/data/header.json"
 }
