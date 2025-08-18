@@ -53,7 +53,7 @@
                 },
                 {
                     "label": "Talleres y charlas",
-                    "url": "/",
+                    "url": "/talleres",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
