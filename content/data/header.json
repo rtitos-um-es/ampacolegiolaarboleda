@@ -44,15 +44,6 @@
                     "altText": "Movilidad"
                 },
                 {
-                    "label": "Talleres y charlas",
-                    "url": "/talleres",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Talleres"
-                },
-                {
                     "type": "Link",
                     "label": "Eventos",
                     "altText": "Eventos",
@@ -62,6 +53,15 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
+                },
+                {
+                    "label": "Talleres y charlas",
+                    "url": "/talleres",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "Talleres"
                 },
                 {
                     "type": "Link",
