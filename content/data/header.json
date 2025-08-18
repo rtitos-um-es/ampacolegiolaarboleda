@@ -40,7 +40,7 @@
         },
         {
             "label": "Actividades",
-            "altText": "Dropdown",
+            "altText": "",
             "links": [
                 {
                     "label": "Dropdown item",
