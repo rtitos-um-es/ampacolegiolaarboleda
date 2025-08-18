@@ -51,6 +51,17 @@
                     "style": "secondary",
                     "type": "Link",
                     "altText": "Movilidad"
+                },
+                {
+                    "type": "Link",
+                    "label": "See Tutorials",
+                    "altText": "",
+                    "url": "/eventos",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
