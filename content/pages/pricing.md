@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Quienes somos
 slug: pricing
 sections:
   - title:
