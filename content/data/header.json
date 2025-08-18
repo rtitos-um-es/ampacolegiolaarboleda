@@ -48,7 +48,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Extraescolares"
                 },
                 {
                     "label": "Dropdown item",
