@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Quienes somos",
-            "url": "/pricing",
+            "url": "/quienes-somos",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
