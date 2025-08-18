@@ -108,7 +108,7 @@
         {
             "label": "Contacto",
             "altText": "Contacto",
-            "url": "/careers",
+            "url": "/contacto",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
