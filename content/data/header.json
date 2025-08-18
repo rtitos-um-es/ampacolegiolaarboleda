@@ -106,15 +106,6 @@
             "labelStyle": "secondary"
         },
         {
-            "label": "Contacto",
-            "altText": "Contacto",
-            "url": "/contacto",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "SubNav",
             "label": "Dropdown",
             "altText": "Dropdown",
@@ -154,6 +145,15 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "label": "Contacto",
+            "altText": "Contacto",
+            "url": "/contacto",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [
