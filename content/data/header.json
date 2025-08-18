@@ -13,17 +13,17 @@
     },
     "primaryLinks": [
         {
-            "label": "Quienes somos",
-            "url": "/quienes-somos",
+            "label": "Contacto",
+            "altText": "Contacto",
+            "url": "/contacto",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Contacto",
-            "altText": "Contacto",
-            "url": "/contacto",
+            "label": "Quienes somos",
+            "url": "/quienes-somos",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
