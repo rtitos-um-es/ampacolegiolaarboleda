@@ -3,7 +3,7 @@ title: Quienes somos
 slug: contacto
 sections:
   - title:
-      text: A team that works closely together
+      text: Misión del AMPA
       color: text-dark
       styles:
         self:
