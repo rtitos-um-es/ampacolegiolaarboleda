@@ -76,7 +76,7 @@
         {
             "type": "SubNav",
             "label": "Libros de texto",
-            "altText": "Libros",
+            "altText": "Libros de texto",
             "links": [
                 {
                     "type": "Link",
