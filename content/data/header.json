@@ -73,7 +73,7 @@
                     "type": "Link",
                     "label": "Aula matinal (madrugadores)",
                     "altText": "Aula matinal",
-                    "url": "/",
+                    "url": "/madrugadores",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
