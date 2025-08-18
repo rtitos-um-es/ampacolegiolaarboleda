@@ -21,18 +21,18 @@
             "type": "Link"
         },
         {
-            "label": "Noticias",
-            "altText": "Noticias",
-            "url": "/blog",
+            "label": "Contacto",
+            "altText": "Contacto",
+            "url": "/contacto",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Contacto",
-            "altText": "Contacto",
-            "url": "/contacto",
+            "label": "Noticias",
+            "altText": "Noticias",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
