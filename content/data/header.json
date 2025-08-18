@@ -82,7 +82,7 @@
                     "type": "Link",
                     "label": "Recogida de libros",
                     "altText": "Recogida",
-                    "url": "/",
+                    "url": "/recogida",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
