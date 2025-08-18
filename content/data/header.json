@@ -76,7 +76,7 @@
         {
             "type": "SubNav",
             "label": "Libros",
-            "altText": "Dropdown",
+            "altText": "Libros",
             "links": [
                 {
                     "type": "Link",
