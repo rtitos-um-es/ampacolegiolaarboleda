@@ -1,6 +1,6 @@
 ---
 title: Contacto
-slug: careers
+slug: contacto
 sections:
   - title:
       text: A team that works closely together
