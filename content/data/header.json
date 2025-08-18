@@ -65,6 +65,15 @@
             "type": "SubNav"
         },
         {
+            "label": "Contacto",
+            "altText": "Contacto",
+            "url": "/contacto",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "type": "SubNav",
             "label": "Conciliación",
             "altText": "Conciliación y apoyo",
@@ -104,15 +113,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "label": "Contacto",
-            "altText": "Contacto",
-            "url": "/contacto",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         },
         {
             "type": "SubNav",
