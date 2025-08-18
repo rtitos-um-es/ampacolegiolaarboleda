@@ -55,7 +55,7 @@
                 {
                     "type": "Link",
                     "label": "Eventos",
-                    "altText": "",
+                    "altText": "Eventos",
                     "url": "/eventos",
                     "showIcon": false,
                     "icon": "arrowRight",
