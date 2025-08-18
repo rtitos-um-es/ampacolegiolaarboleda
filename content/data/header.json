@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Quienes somos",
-            "altText": "Contacto",
+            "altText": "Quienes somos",
             "url": "/contacto",
             "icon": "arrowRight",
             "iconPosition": "right",
