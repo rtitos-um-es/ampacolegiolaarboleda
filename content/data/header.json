@@ -22,14 +22,6 @@
             "type": "Link"
         },
         {
-            "label": "Quienes somos",
-            "url": "/quienes-somos",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Noticias",
             "altText": "Noticias",
             "url": "/blog",
@@ -113,6 +105,14 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "label": "Quienes somos",
+            "url": "/quienes-somos",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "type": "SubNav",
