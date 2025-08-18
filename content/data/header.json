@@ -62,7 +62,7 @@
                 },
                 {
                     "label": "Movilidad escolar",
-                    "url": "/",
+                    "url": "/movilidad",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
