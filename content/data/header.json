@@ -72,7 +72,7 @@
                 {
                     "type": "Link",
                     "label": "Madrugadores",
-                    "altText": "",
+                    "altText": "Madrugadores",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
