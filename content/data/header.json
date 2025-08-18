@@ -54,7 +54,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "See Tutorials",
+                    "label": "Eventos",
                     "altText": "",
                     "url": "/eventos",
                     "showIcon": false,
