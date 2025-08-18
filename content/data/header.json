@@ -91,7 +91,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Banco de libros",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
