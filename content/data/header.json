@@ -67,7 +67,7 @@
         {
             "type": "SubNav",
             "label": "Conciliación y apoyo",
-            "altText": "Conciliación",
+            "altText": "Conciliación y apoyo",
             "links": [
                 {
                     "type": "Link",
