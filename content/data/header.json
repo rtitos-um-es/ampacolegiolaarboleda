@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Noticias",
             "altText": "Blog",
             "url": "/noticias",
             "icon": "arrowRight",
