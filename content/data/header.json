@@ -80,7 +80,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Recogida de libros",
+                    "label": "Recogida",
                     "altText": "Recogida",
                     "url": "/recogida",
                     "showIcon": false,
