@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "Extraescolares",
-                    "url": "/",
+                    "url": "/extraescolares",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
