@@ -1,32 +1,43 @@
 ---
 title: Home
-slug: /
+slug: /libros
 sections:
   - type: GenericSection
     title:
       text: AMPA CEIP La Arboleda
       color: text-dark
       type: TitleBlock
-    subtitle: Familias unidas por la educación y la comunidad escolar
+    subtitle: Subtitle goes here
     text: >
-      Somos la Asociación de Madres y Padres del CEIP La Arboleda en  Santiago y Zaraiche (Murcia). Colaboramos con el colegio y apoyamos a las familias organizando servicios como el reparto de libros de texto, el aula matinal, las actividades extraescolares y eventos de convivencia que fortalecen la vida escolar. Nuestro objetivo es crear un entorno educativo seguro, participativo y cercano, donde cada familia tenga voz y pueda contribuir al bienestar común.
+      A Netlify Create website is a git repo that you own. Every code commit is
+      instantly reflected in the visual editor and since every visual edit is a
+      git commit, git workflows and collaboration just work.
     actions:
-      - label: Conócenos
+      - label: Get started
         altText: ''
-        url: /quienes-somos
+        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
+      - label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: Bienvenidos
+      label: This is a badge
       color: text-primary
       type: Badge
     elementId: ''
@@ -40,181 +51,23 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - title:
-      text: Lo que te ofrecemos
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Servicios y actividades gestionados por el AMPA
-    items:
-      - title: Libros de texto
-        tagline: Servicio para familias
-        subtitle: Compra conjunta y distribución de libros
-        text: |
-          Coordinamos la compra conjunta y reparto de libros al inicio de curso.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Icono libros
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Actividades extraescolares
-        tagline: Educación y conciliación
-        subtitle: Juegos, deportes y talleres
-        text: |
-          Ofrecemos una amplia variedad de actividades dentro del centro, pensadas para enriquecer la formación y ayudar a conciliar.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Icono actividades
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Aula matinal “Madrugadores”
-        tagline: Horarios flexibles
-        subtitle: Conciliación familiar
-        text: >
-          Servicio que permite la entrada anticipada al colegio, adaptándose a las necesidades de las familias y sus diferentes horarios.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Icono reloj
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Escuelas de vacaciones
-        tagline: Navidad, Semana Santa y verano
-        subtitle: Apoyo a familias
-        text: >
-          Organizamos actividades en periodos no lectivos para que los niños disfruten y las familias puedan conciliar mejor.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Icono calendario
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Fiestas y convivencias
-        tagline: Comunidad escolar
-        subtitle: Eventos del colegio
-        text: >
-          Organizamos celebraciones como la fiesta de fin de curso o almuerzos navideños que refuerzan la convivencia y el espíritu de comunidad.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Icono fiesta
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Bicibús
-        tagline: Autonomía, seguridad y salud
-        subtitle: Movilidad y entorno escolar
-        text: >
-          Pedaleamos al cole todos los viernes lectivos para fomentar una movilidad activa y reivindicar espacios peatonales seguros en el entorno escolar.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Icono reloj
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - type: FeaturedItemsSection
     title:
-      text: El AMPA en cifras
+      text: Key Benefits
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Nuestro impacto en la vida escolar cada curso
+    subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 250 
-        subtitle: Familias
+        title: 500k
+        subtitle: Numbers Done
         text: >-
-          Socias activas que colaboran y participan en la vida del colegio.
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -237,10 +90,12 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 800
-        subtitle: Libros de texto
+      - title: 20x
+        subtitle: The Job Stuff
         text: >-
-          Ejemplares adquiridos a través del AMPA y repartidos a las familias al inicio de curso.
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -260,10 +115,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200
-        subtitle: matriculados
+      - title: 200%
+        subtitle: Faster
         text: >-
-          Alumnado matriculado en actividades extraescolares gestionadas por el AMPA.
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -282,9 +139,9 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Hazte socio
+      - label: Get started
         altText: ''
-        url: /alta
+        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -292,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: En números
+      label: This is a badge
       color: text-primary
       styles:
         self:
@@ -311,6 +168,37 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - subtitle: Award winning enterprises trust us
+    images:
+      - url: /images/empathy-logo.svg
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/wellster-logo.svg
+        altText: Wellster logo
+        type: ImageBlock
+      - url: /images/vise-logo.svg
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/telus-logo.svg
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/contenful-logo.svg
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/sanity-logo.svg
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/rangle-logo.svg
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -340,6 +228,54 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - title:
+      text: Grow your business 10x faster
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: This is a subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    media:
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+      autoplay: true
+      loop: true
+      muted: true
+    badge:
+      label: Key Benefits
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
   - type: GenericSection
     title:
       text: Generic section with a video
@@ -383,6 +319,42 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - title:
+      text: Business Consulting
+      color: text-dark
+      type: TitleBlock
+    subtitle: Be in good company
+    text: >
+      A service that provides advice and guidance to startups and small
+      businesses.
+    actions:
+      - label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Link
+    media:
+      url: /images/hero3.svg
+      altText: Dope design preview
+      type: ImageBlock
+    badge:
+      label: This is a badge
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -586,6 +558,98 @@ sections:
       subtitle:
         textAlign: center
   - title:
+      text: List of features here
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Featured items section subtitle
+    items:
+      - title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          url: /images/abstract-feature1.svg
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Feature Item Two
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first awesome Netlify Create site.
+        image:
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Feature Item Three
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
+        image:
+          url: /images/abstract-feature1.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
+  - title:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
@@ -644,25 +708,9 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-  - subtitle: Entidades y empresas con las que trabajamos
-    images:
-      - url: /images/logos/catering-antonia-navarro.png
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/logos/activa-tu-mundo.png
-        altText: Wellster logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
 seo:
-  metaTitle: AMPA CEIP La Arboleda - Inicio
-  metaDescription: Asociación de padres y madres de alumnos del Colegio La Arboleda (Santiago y Zaraiche, Murcia).
+  metaTitle: Home - Demo site
+  metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
