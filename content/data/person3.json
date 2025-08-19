@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "name": "Asher Schmitt",
-    "role": "Co-founder & CEO",
+    "name": "Cecilia Llamas Botía",
+    "role": "Secretaria y Representante en el Consejo Escolar",
     "image": {
         "url": "/images/avatar3.svg",
-        "altText": "Asher Schmitt",
+        "altText": "Cecilia Llamas Botía",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Experta en papeles y actas, capaz de convertir cualquier reunión en un relato épico.\n"
 }

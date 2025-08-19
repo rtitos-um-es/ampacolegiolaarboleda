@@ -3,22 +3,18 @@ title: Quienes somos
 slug: quienes-somos
 sections:
   - title:
-      text: Misión del AMPA
+      text: Misión del AMPA CEIP La Arboleda
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: Fortalecer la comunidad educativa con la participación de las familias
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Nuestra misión es apoyar a las familias y fortalecer la comunidad educativa. Nos centramos en facilitar la conciliación y el bienestar, organizando servicios y actividades útiles en el día a día. Coordinamos el reparto de libros de texto, ponemos en marcha actividades extraescolares que enriquecen la formación y ofrecemos el aula matinal o “madrugadores” para adaptarnos a distintos horarios. También organizamos eventos que refuerzan la convivencia, como la fiesta de fin de curso o los almuerzos de Navidad. Además, trabajamos por una movilidad escolar segura y saludable, fomentando ir al colegio a pie o en bicicleta y promoviendo campañas de concienciación para crear hábitos saludables y fomentar un entorno respetuoso en toda la comunidad educativa.
     actions:
-      - label: See open positions
-        url: /
+      - label: Estatutos
+        url: https://ampalaarboleda.netlify.app/index-p-42
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -50,33 +46,65 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Estatutos
+      text: Contacto
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Canales de contacto según tus necesidades
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      El AMPA CEIP La Arboleda pone a disposición de las familias diferentes direcciones de correo electrónico de contacto para resolver dudas y gestionar temas específicos como actividades extraescolares, conciliación, libros de texto o consultas generales. Usa el canal adecuado para recibir una respuesta rápida y eficaz.
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: General
+        url: mailto:ampa.laarboleda@gmail.com
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
+      - type: Button
+        label: Extraescolares
+        url: mailto:extraescolareslaarboleda@gmail.com
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
+      - type: Button
+        label: Concilia
+        url: mailto:concilia.ampalaarboleda@gmail.com
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Button
+        label: Libros
+        url: mailto:librosampalaarboleda@gmail.com
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
     media:
       type: ImageBlock
       url: /images/hero2.svg
       altText: Fun feature preview
     badge:
       type: Badge
-      label: This is a badge
+      label: 
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Prueba de PDF
+      color: text-dark
+    subtitle: Subtítulo
+    text: >
+      <iframe src="/docs/libros/2025-08-18-circular-reparto.pdf"
+              width="125%" height="600px" style="border:none;">
+      </iframe>
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: 
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -94,9 +122,7 @@ sections:
       - content/data/person2.json
       - content/data/person3.json
       - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    variant: three-col-grid
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
@@ -110,20 +136,18 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Comisiones
+      text: Comisiones de trabajo
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Equipos voluntarios que impulsan la vida del AMPA
     items:
-      - title: Account Executive
-        subtitle: Sales
+      - title: Fiestas
+        subtitle: Camino, María Ángeles y Begoña.
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Conlleva la organización de todas las fiestas estacionales: Navidad, Semana Santa y Fin de Curso.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -137,12 +161,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
+      - title: Carnaval
+        subtitle: Inma, María, Eva y Cristina.
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Gestiona todos los eventos relacionados con este tema.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -156,12 +178,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
-        subtitle: Engineering
+      - title: Huerto escolar
+        subtitle: Tiziana, Israel, Paula y Lola.
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Se encarga todas las labores del huerto que está en el colegio: remover la tierra, sembrado, recogida.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -173,9 +193,84 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+      - title: Concilia
+        subtitle: Ana y Mercedes.
+        text: >-
+          Gestiona el servicio de madrugadores, hora de 13.00 a 14.00 (sin comedor) y de 15:00 a 16:00 (con comedor) en los meses de junio y septiembre.
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
+      - title: Extraescolares
+        subtitle: María Ángeles y María José.
+        text: >-
+          Se encarga de todo los relacionado con la organización de las actividades extraescolares: elección, horario, ubicación, etc., así como de organizar las escuelas de Navidad, Semana Santa y verano.
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem        
+      - title: Libros de texto
+        subtitle: Tiziana, Cecilia y María José.
+        text: >-
+          Se encarga de todo lo relacionado con el servicio de libros que se da a los socios del AMPA al comienzo de curso.
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem        
+      - title: Movilidad y entorno escolar seguro
+        subtitle: Mara y Rubén.
+        text: >-
+          Promueve iniciativas como el bicibús semanal y otras actividades de concienciación para promover entornos escolares seguros y saludables donde el peatón y la bicicleta sean protagonistas.
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem                
+      - title: Web
+        subtitle: Rubén.
+        text: >-
+          Se encarga de mantener actualizada la página web del AMPA para que familias y colegio estén siempre bien informados y conectados.
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem                
     actions:
-      - label: Apply now
-        url: /
+      - label: Hazte voluntario
+        url: mailto:ampa.laarboleda@gmail.com
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -194,8 +289,8 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
+  metaTitle: Quienes somos - AMPA CEIP La Arboleda
+  metaDescription: Conoce la misión, estatutos, junta directiva y comisiones del AMPA CEIP La Arboleda (Santiago y Zaraiche, Murcia), así como los servicios y actividades que apoyan a las familias.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

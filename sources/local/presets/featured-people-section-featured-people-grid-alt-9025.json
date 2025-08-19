@@ -34,7 +34,7 @@
                         "$$type": "Person"
                     },
                     {
-                        "$$ref": "content/data/person5.json",
+                        "$$ref": "content/data/person1.json",
                         "$$type": "Person"
                     },
                     {

@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "name": "Nina Mercado",
-    "role": "Co-founder & CEO",
+    "name": "Isabel Rubio Cánovas",
+    "role": "Tesorera",
     "image": {
         "url": "/images/avatar4.svg",
-        "altText": "Nina Mercado",
+        "altText": "Isabel Rubio Cánovas",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Cuenta céntimos y sonrisas con la misma precisión (aunque a veces haga magia con los números).\n"
 }

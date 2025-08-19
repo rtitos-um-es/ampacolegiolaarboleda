@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Asociación de Madres y Padres del CEIP La Arboleda (Murcia)",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -37,12 +37,12 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "AMPA CEIP La Arboleda",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Quienes somos",
+                "altText": "Sobre nosotros",
+                "url": "/quienes-somos",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -61,26 +61,8 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:ampa.laarboleda@gmail.com",
             "icon": "mail",
             "type": "Social"
         }

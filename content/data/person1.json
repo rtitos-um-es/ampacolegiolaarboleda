@@ -1,9 +1,9 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "María José Hernández Hernández",
+    "role": "Presidenta",
     "image": {
-        "url": "/images/avatar1.svg",
-        "altText": "Rhonda Piper",
+        "url": "/images/avatar2.svg",
+        "altText": "María José Hernández Hernández",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -32,5 +32,5 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Siempre con mil ideas en la cabeza y ganas de liarla… pero para bien.\n"
 }
