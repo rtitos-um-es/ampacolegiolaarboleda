@@ -6,28 +6,20 @@
     },
     "text": "Asociación de Madres y Padres del CEIP La Arboleda (Murcia)",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Enlaces de interés",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "CEIP La Arboleda",
+                "altText": "Colegio La Arboleda",
+                "url": "https://ceiplaarboleda.murciaeduca.es/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
+                "label": "educarm",
+                "url": "https://www.educarm.es",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -65,24 +57,6 @@
             "url": "mailto:ampa.laarboleda@gmail.com",
             "icon": "mail",
             "type": "Social"
-        }
-    ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",

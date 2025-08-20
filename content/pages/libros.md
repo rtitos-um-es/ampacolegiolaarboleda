@@ -4,7 +4,7 @@ slug: /libros
 sections:
   - type: GenericSection
     title:
-      text: Libros de texto
+      text: Recogida de libros de texto
       color: text-dark
       type: TitleBlock
     subtitle: Infantil y primaria
@@ -16,7 +16,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Actividades
+      label: Libros de texto
       color: text-primary
       type: Badge
     elementId: ''
@@ -30,28 +30,33 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Prueba de PDF
+  - title:
+      text: Instrucciones
       color: text-dark
-    subtitle: Subtítulo
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Curso 2025-26
     text: >
       <iframe src="/docs/libros/2025-08-18-circular-reparto.pdf"
-              width="125%" height="600px" style="border:none;">
+              width="100%" height="1200px" style="border:none;">
       </iframe>
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
     badge:
-      type: Badge
-      label: 
+      label: Libros de texto
       color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
 seo:
   metaTitle: AMPA CEIP La Arboleda - Inicio
   metaDescription: Asociación de padres y madres de alumnos del Colegio La Arboleda (Santiago y Zaraiche, Murcia).

@@ -1,6 +1,6 @@
 ---
 title: Quienes somos
-slug: quienes-somos
+slug: /quienes-somos
 sections:
   - title:
       text: Misión del AMPA CEIP La Arboleda
@@ -43,51 +43,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Contacto
-      color: text-dark
-    subtitle: Canales de contacto según tus necesidades
-    text: >
-      El AMPA CEIP La Arboleda pone a disposición de las familias diferentes direcciones de correo electrónico de contacto para resolver dudas y gestionar temas específicos como actividades extraescolares, conciliación, libros de texto o consultas generales. Usa el canal adecuado para recibir una respuesta rápida y eficaz.
-    actions:
-      - type: Button
-        label: General
-        url: mailto:ampa.laarboleda@gmail.com
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Button
-        label: Extraescolares
-        url: mailto:extraescolareslaarboleda@gmail.com
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Button
-        label: Concilia
-        url: mailto:concilia.ampalaarboleda@gmail.com
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Button
-        label: Libros
-        url: mailto:librosampalaarboleda@gmail.com
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: 
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - title:
       text: Junta directiva
       color: text-dark
