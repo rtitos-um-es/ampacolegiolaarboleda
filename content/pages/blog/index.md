@@ -2,19 +2,20 @@
 title: Blog
 slug: /blog
 numOfPostsPerPage: 8
-enableSearch: true
+enableSearch: false
 topSections:
   - title:
-      text: Featured Post
+      text: Noticias destacadas
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: El tablón de anuncios del AMPA del CEIP La Arboleda
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/sample/top-ten-lessons-we-learned.md
+      - content/pages/blog/2025/nueva-web-ampa.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
-    showAuthor: true
+    showAuthor: false
     variant: big-list
     colors: bg-light-fg-dark
     styles:
@@ -31,10 +32,9 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Noticias del AMPA CEIP La Arboleda
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    Blog con noticias sobre el AMPA del Colegio La Arboleda.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
@@ -46,7 +46,7 @@ postFeed:
   showThumbnail: true
   showExcerpt: true
   showDate: true
-  showAuthor: true
+  showAuthor: false
   actions: []
   elementId: null
   variant: three-col-grid
