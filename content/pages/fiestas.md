@@ -1,10 +1,10 @@
 ---
 title: Home
-slug: /original
+slug: /fiestas
 sections:
   - type: GenericSection
     title:
-      text: AMPA CEIP La Arboleda
+      text: Fiestas
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

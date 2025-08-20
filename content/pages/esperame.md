@@ -1,10 +1,10 @@
 ---
 title: Home
-slug: /original
+slug: /esperame
 sections:
   - type: GenericSection
     title:
-      text: AMPA CEIP La Arboleda
+      text: Espérame (Septiembre y Junio)
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

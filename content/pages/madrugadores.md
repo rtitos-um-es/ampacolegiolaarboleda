@@ -1,10 +1,10 @@
 ---
 title: Home
-slug: /original
+slug: /madrugadores
 sections:
   - type: GenericSection
     title:
-      text: AMPA CEIP La Arboleda
+      text: Aula matinal (Madrugadores)
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

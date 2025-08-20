@@ -35,8 +35,8 @@
                     "altText": "Extraescolares"
                 },
                 {
-                    "label": "Talleres y charlas",
-                    "url": "/talleres",
+                    "label": "Fiestas",
+                    "url": "/fiestas",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -51,6 +51,15 @@
                     "style": "secondary",
                     "type": "Link",
                     "altText": "Movilidad"
+                },
+                {
+                    "label": "Talleres y charlas",
+                    "url": "/talleres",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "Talleres"
                 }
             ],
             "labelStyle": "secondary",
@@ -74,9 +83,9 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Espérame",
                     "altText": "",
-                    "url": "/",
+                    "url": "/esperame",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -85,9 +94,9 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
+                    "label": "Escuela de vacaciones",
+                    "altText": "Escuela de vacaciones",
+                    "url": "/escuela-vacaciones",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -106,29 +115,7 @@
                     "type": "Link",
                     "label": "Recogida",
                     "altText": "Recogida",
-                    "url": "/recogida",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Banco de libros",
-                    "altText": "Banco de libros",
-                    "url": "/banco-libros",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
+                    "url": "/libros",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",

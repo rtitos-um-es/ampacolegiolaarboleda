@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Familias unidas por la educación y la comunidad escolar
     text: >
-      Somos la Asociación de Madres y Padres del CEIP La Arboleda en  Santiago y Zaraiche (Murcia). Colaboramos con el colegio y apoyamos a las familias organizando servicios como el reparto de libros de texto, el aula matinal, las actividades extraescolares y eventos de convivencia que fortalecen la vida escolar. Nuestro objetivo es crear un entorno educativo seguro, participativo y cercano, donde cada familia tenga voz y pueda contribuir al bienestar común.
+      Somos la Asociación de Madres y Padres de Alumnos (AMPA) del Colegio de Educación Infantil y Primaria (CEIP) “La Arboleda” de la ciudad de Murcia. Colaboramos con el colegio y apoyamos a las familias organizando servicios como el reparto de libros de texto, el aula matinal, las actividades extraescolares y eventos de convivencia que fortalecen la vida escolar. Nuestro objetivo es crear un entorno educativo seguro, participativo y cercano, donde cada familia tenga voz y pueda contribuir al bienestar común.
     actions:
       - label: Conócenos
         altText: ''

@@ -1,10 +1,10 @@
 ---
 title: Home
-slug: /original
+slug: /escuela-vacaciones
 sections:
   - type: GenericSection
     title:
-      text: AMPA CEIP La Arboleda
+      text: Escuela de vacaciones (Navidad, Semana Santa y verano)
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

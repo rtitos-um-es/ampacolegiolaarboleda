@@ -88,28 +88,6 @@ sections:
     styles:
       self:
         alignItems: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Prueba de PDF
-      color: text-dark
-    subtitle: Subtítulo
-    text: >
-      <iframe src="/docs/libros/2025-08-18-circular-reparto.pdf"
-              width="125%" height="600px" style="border:none;">
-      </iframe>
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: 
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - title:
       text: Junta directiva
       color: text-dark

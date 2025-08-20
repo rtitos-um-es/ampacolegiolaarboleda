@@ -1,10 +1,10 @@
 ---
 title: Home
-slug: /original
+slug: /movilidad
 sections:
   - type: GenericSection
     title:
-      text: AMPA CEIP La Arboleda
+      text: Movilidad
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

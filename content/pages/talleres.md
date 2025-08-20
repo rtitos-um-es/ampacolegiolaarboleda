@@ -1,10 +1,10 @@
 ---
 title: Home
-slug: /original
+slug: /talleres
 sections:
   - type: GenericSection
     title:
-      text: AMPA CEIP La Arboleda
+      text: Talleres y charlas
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
