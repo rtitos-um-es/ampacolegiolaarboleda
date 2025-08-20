@@ -55,7 +55,7 @@ sections:
         text: |
           Coordinamos la compra conjunta y reparto de libros al inicio de curso.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/inicio/libros.jpeg
           altText: Icono libros
           styles:
             self:
@@ -78,7 +78,7 @@ sections:
         text: |
           Ofrecemos una amplia variedad de actividades dentro del centro, pensadas para enriquecer la formación y ayudar a conciliar.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/inicio/extraescolares.jpeg
           altText: Icono actividades
           styles:
             self:
@@ -101,7 +101,7 @@ sections:
         text: >
           Servicio que permite la entrada anticipada al colegio, adaptándose a las necesidades de las familias y sus diferentes horarios.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/inicio/aula-matinal.png
           altText: Icono reloj
           styles:
             self:
@@ -124,7 +124,7 @@ sections:
         text: >
           Organizamos actividades en periodos no lectivos para que los niños disfruten y las familias puedan conciliar mejor.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/inicio/escuela-verano.jpeg
           altText: Icono calendario
           styles:
             self:
@@ -147,7 +147,7 @@ sections:
         text: >
           Organizamos celebraciones como la fiesta de fin de curso o almuerzos navideños que refuerzan la convivencia y el espíritu de comunidad.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/inicio/fiesta-fin-curso.jpeg
           altText: Icono fiesta
           styles:
             self:
@@ -170,7 +170,7 @@ sections:
         text: >
           Pedaleamos al cole todos los viernes lectivos para fomentar una movilidad activa y reivindicar espacios peatonales seguros en el entorno escolar.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/inicio/movilidad.jpeg
           altText: Icono reloj
           styles:
             self:
@@ -583,66 +583,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Generic Section With A Form
-      color: text-dark
-      type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
-  - subtitle: Entidades y empresas con las que trabajamos
+  - subtitle: Entidades y empresas con las que colaboramos
     images:
       - url: /images/logos/catering-antonia-navarro.png
         altText: Empathy logo

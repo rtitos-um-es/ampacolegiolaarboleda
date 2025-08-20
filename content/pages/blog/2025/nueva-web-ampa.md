@@ -13,19 +13,18 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
+isFeatured: true
 seo:
   metaTitle: Inauguración de la nueva web del AMPA
   metaDescription: El AMPA La Arboleda presenta su nueva web en ampalaarboleda.org con diseño renovado, mejor adaptación a móviles y contenidos actualizados para todas las familias.
   socialImage: /images/blog/web-inauguracion.jpg
   type: Seo
 colors: bg-light-fg-dark
-type: PostLayout
-author: content/data/personAMPA.json
 styles:
   self:
-    flexDirection: col
-isFeatured: true
-isDraft: false
+    flexDirection: row
+type: PostLayout
+author: content/data/personAMPA.json
 ---
 
 El AMPA del CEIP La Arboleda inaugura su nueva página web en **Netlify**, con el nuevo dominio **ampalaarboleda.org**. Dejamos atrás la antigua web creada en 2013 en WordPress, que cumplió su función durante más de una década, pero que ya no se adaptaba a dispositivos móviles y presentaba contenidos poco estructurados.

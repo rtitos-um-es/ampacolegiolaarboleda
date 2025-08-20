@@ -16,7 +16,7 @@ sections:
       alumno/a, teléfono de contacto, si es socio/a del AMPA y si acude a
       comedor.
     media:
-      url: /images/main-hero.svg
+      url: /images/extraescolares/principal.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -50,7 +50,7 @@ sections:
           Roller Queen inicia al patinaje desde cero. Precio: 25 € socios / 32 € no socios. Mín. 10 — Máx. 16 alumnos.
           Inscripción: 👉 [Formulario](https://docs.google.com/forms/d/e/1FAIpQLSdnJHgcMC9spbyb0erw4GqOAx95UvfsY08gzaSvO_iMa_muaw/viewform)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/patinaje.jpeg
           altText: Icono reloj
           styles:
             self:
@@ -72,7 +72,7 @@ sections:
         text: |
           Deporte recomendado por la OMS para el desarrollo integral. Impartido por maestra competidora con 10 años de experiencia. Cuota: 20 € socios / 27 € no socios. Licencia federativa anual: 25 € (seguro, exámenes, campeonatos). Mín. 10 alumnos. Inscripción: 👉 [Email contacto](caandelaa0308@gmail.com)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/judo.jpeg
           altText: Icono libros
           styles:
             self:
@@ -94,7 +94,7 @@ sections:
         text: |
           Entrenamientos con Globality Events. Precio: 25 € socios / 32 € no socios. Inicio con un mínimo de 10 niños/as. Inscripción: 👉 [Email contacto](mailto:antoniomira@globalitysports.com)
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/extraescolares/futbol.jpeg
           altText: Icono actividades
           styles:
             self:
@@ -116,7 +116,7 @@ sections:
         text: >
           Con Globality Events. Trabajo psicomotor a través del juego (fútbol, tenis, baloncesto, balonmano…). Mín. 8 alumnos. Precio: 25 € socios / 32 € no socios.  Inscripción: 👉 [Email contacto](mailto:antoniomira@globalitysports.com)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/multideporte.jpeg
           altText: Icono calendario
           styles:
             self:
@@ -138,7 +138,7 @@ sections:
         text: >
           Manualidades guiadas e iniciación a robótica (lógica + creatividad) con Imaginación Activa. Precio: 25 € socios / 33 € no socios. Trimestre socios: 70 €. Inscripción: [A través de la app “Imaginación Activa”](https://play.google.com/store/apps/details?id=com.companyname.imaginacionactiva&hl=es) o en este [enlace](https://www.mediconta.es/curso/index.php)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/robotica.jpeg
           altText: Icono fiesta
           styles:
             self:
@@ -160,7 +160,7 @@ sections:
         text: >
           Empresa “Activa tu mundo”. Danza como medio artístico y de ocio saludable; juegos y metodología global. Precio: 21 € socios / 28 € no socios. Trimestral socios: 57 €. Mín. 8 alumnos. Inscripción: [A través de la app “Imaginación Activa”](https://play.google.com/store/apps/details?id=com.companyname.imaginacionactiva&hl=es) o en este [enlace](https://www.mediconta.es/curso/index.php)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/baile.jpeg
           altText: Icono reloj
           styles:
             self:
@@ -178,12 +178,12 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Tenis iniciación
-        subtitle: Desde 2º Infantil a 2º Primaria
+        subtitle: Desde 3º Infantil a 2º Primaria
         text: >
           Club de Tenis y Pádel de Monteagudo. Grupos de 5–10 por monitor. En vacaciones puede continuar en el club. Precio: 28 € socios / 35 € no socios.
           Inscripción: 👉 [Email contacto](mailto:jpabloser@hotmail.com)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/tenis.jpeg
           altText: Icono reloj
           styles:
             self:
@@ -201,12 +201,12 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Teatro en inglés
-        subtitle: Infantil
+        subtitle: Primaria
         text: >
           Escuela de Artistas Irene Jara. Metodología activa: role plays, juegos, cuentos, marionetas, canciones y obras. Profesorado nativo o bilingüe. Precio: 28 € socios / 35 € no socios. 
           Inscripción: 👉 [Email contacto](mailto:escueladeartistasirenejara@hotmail.com)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/teatro.jpeg
           altText: Icono reloj
           styles:
             self:
@@ -229,7 +229,7 @@ sections:
           Roller Queen. Mejora técnica e introducción al hockey.Precio: 25 € socios / 32 € no socios. Mín. 10 — Máx. 20 alumnos.
           Inscripción: 👉 [Formulario](https://docs.google.com/forms/d/e/1FAIpQLSdnJHgcMC9spbyb0erw4GqOAx95UvfsY08gzaSvO_iMa_muaw/viewform)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/patinaje-avanzado.jpeg
           altText: Icono reloj
           styles:
             self:
@@ -251,7 +251,7 @@ sections:
         text: |
           Deporte recomendado por la OMS para el desarrollo integral. Impartido por maestra competidora con 10 años de experiencia. Cuota: 20 € socios / 27 € no socios. Licencia federativa anual: 25 € (seguro, exámenes, campeonatos). Mín. 10 alumnos. Inscripción: 👉 [Email contacto](caandelaa0308@gmail.com)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/judo-avanzado.jpeg
           altText: Icono libros
           styles:
             self:
@@ -269,12 +269,12 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Baloncesto
-        subtitle: 3º a 6º Primaria
+        subtitle: Primaria
         text: >
           Formación técnica, juego en equipo y respeto a las reglas. Dos monitores. Precio: 60 € trimestre (socios) o 20 €/mes; no socios 72 € trimestre o 27 €/mes. Mín. 8 alumnos, máximo 20.
           Inscripción: 👉 [Email contacto](baloncestoarboleda@gmail.com)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/baloncesto.jpeg
           altText: Icono reloj
           styles:
             self:
@@ -292,12 +292,12 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Baile urbano
-        subtitle: 3º a 6º Primaria
+        subtitle: Primaria
         text: >
           Estilos urbanos con calentamiento clásico para postura y alineación. Mejora coordinación, memoria y autoestima. Precio: 21 € socios / 28 € no socios.
           Inscripción: 👉 [Email contacto](escueladeartistasirenejara@hotmail.com)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/baile-urbano.jpeg
           altText: Icono reloj
           styles:
             self:
@@ -319,7 +319,7 @@ sections:
         text: >
           Aprendizaje básico, dinámico y divertido. El alumnado trae su instrumento. Precio: 32 € socios / 39 € no socios.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/guitarra.jpeg
           altText: Icono reloj
           styles:
             self:
@@ -342,7 +342,7 @@ sections:
           Ritmos binarios y ternarios, subdivisiones, dinámica, improvisación. Lenguaje musical integrado. Precio: 32 € socios / 39 € no socios.
           Inscripción: 👉 [Email contacto](musicarte.ae@hotmail.es)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/percusion.jpeg
           altText: Icono reloj
           styles:
             self:
@@ -364,7 +364,7 @@ sections:
         text: >
           Con Imaginación Activa. Posturas, respiración y relajación para equilibrio cuerpo-mente. Precio: 21 € socios / 28 € no socios. Trimestral socios: 57 €. Llevar toalla para la esterilla. Mín. 8.Inscripción: [A través de la app “Imaginación Activa”](https://play.google.com/store/apps/details?id=com.companyname.imaginacionactiva&hl=es) o en este [enlace](https://www.mediconta.es/curso/index.php)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/yoga.jpeg
           altText: Icono fiesta
           styles:
             self:
@@ -386,7 +386,7 @@ sections:
         text: >
           Con Imaginación Activa. Mejora memoria, concentración y pensamiento lógico. Precio: 21 € socios / 28 € no socios. Inscripción: [A través de la app “Imaginación Activa”](https://play.google.com/store/apps/details?id=com.companyname.imaginacionactiva&hl=es) o en este [enlace](https://www.mediconta.es/curso/index.php)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/ajedrez.jpeg
           altText: Icono fiesta
           styles:
             self:
@@ -409,7 +409,7 @@ sections:
           Club de Tenis y Pádel de Monteagudo.  Enseñanza lúdica, recreativa y competitiva. Grupos de 5–10 por monitor. En vacaciones puede continuar en el club. Precio: 28 € socios / 35 € no socios.
           Inscripción: 👉 [Email contacto](mailto:jpabloser@hotmail.com)
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/extraescolares/tenis-avanzado.jpeg
           altText: Icono reloj
           styles:
             self:
