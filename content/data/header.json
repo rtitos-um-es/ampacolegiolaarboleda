@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/ampa-logo-small.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -142,7 +142,8 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        }    ],
+        }
+    ],
     "secondaryLinks": [
         {
             "label": "Hazte socio",
