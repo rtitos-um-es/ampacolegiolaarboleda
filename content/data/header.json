@@ -113,9 +113,31 @@
             "links": [
                 {
                     "type": "Link",
+                    "label": "Reserva",
+                    "altText": "Reserva",
+                    "url": "/libros-reserva",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
                     "label": "Recogida",
                     "altText": "Recogida",
-                    "url": "/libros",
+                    "url": "/libros-recogida",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Banco de libros",
+                    "altText": "Banco de libros",
+                    "url": "/libros-banco",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",

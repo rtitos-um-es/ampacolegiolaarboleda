@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: /libros
+slug: /libros-recogida
 sections:
   - type: GenericSection
     title:
@@ -9,9 +9,19 @@ sections:
       type: TitleBlock
     subtitle: Infantil y primaria
     text: >
-      TODO
+      El AMPA organiza cada año la compra conjunta de los libros de texto para
+      Infantil y los cursos de 1º y 2º de Primaria (a partir de 3º de Primaria, los alumnos participan en el programa de banco de libros gestionado por el propio colegio). De esta manera, el AMPA facilita a las familias la adquisición del material, garantizando que los libros correspondan exactamente con los solicitados por el colegio y obteniendo mejores condiciones en el proceso de compra.
+
+      Cómo funciona: las familias interesadas realizan la solicitud al AMPA y
+      efectúan el pago en el plazo establecido. Con todos los pedidos recibidos,
+      el AMPA gestiona la compra con la librería o distribuidor. Posteriormente,
+      se organiza la entrega en el propio colegio.
+
+      Recogida: la distribución de los lotes de libros se realiza en turnos
+      previamente comunicados a las familias para evitar esperas.
+
     media:
-      url: /images/inicio/libros2.jpeg
+      url: /images/inicio/libros.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock

@@ -4,21 +4,25 @@ slug: /esperame
 sections:
   - type: GenericSection
     title:
-      text: Espérame (Septiembre y Junio)
+      text: Espérame
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Septiembre y Junio
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Durante septiembre y junio, el horario lectivo finaliza a las 13:00. El
+      servicio Espérame ofrece atención y acompañamiento dentro del centro
+      escolar hasta las 14:00 para facilitar la conciliación de las familias.
+      Los alumnos permanecen en un espacio del colegio habilitado con monitores, realizando
+      actividades y juegos, lectura o dibujo, sin contenidos
+      curriculares ni dispositivos electrónicos.
+
     media:
       url: /images/inicio/esperame.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Conciliación
       color: text-primary
       type: Badge
     elementId: ''
@@ -32,6 +36,33 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - title:
+      text: Espérame Septiembre
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Curso 2025-26
+    text: >
+      <iframe src="/docs/concilia/2025-09-esperame.pdf"
+              width="100%" height="1200px" style="border:none;">
+      </iframe>
+    badge:
+      label: Conciliación
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
