@@ -72,7 +72,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Aula matinal",
+                    "label": "Madrugadores",
                     "altText": "Aula matinal",
                     "url": "/madrugadores",
                     "showIcon": false,
@@ -94,7 +94,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Escuela de vacaciones",
+                    "label": "Vacaciones",
                     "altText": "Escuela de vacaciones",
                     "url": "/escuela-vacaciones",
                     "showIcon": false,
