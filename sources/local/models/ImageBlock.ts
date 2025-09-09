@@ -16,6 +16,33 @@ export const ImageBlock: Model = {
             localized: false
         },
         {
+            type: 'object',
+            name: 'link',
+            label: 'Link',
+            description: 'Optional link to wrap the image',
+            required: false,
+            hidden: false,
+            localized: false,
+            fields: [
+                {
+                    type: 'string',
+                    name: 'url',
+                    label: 'URL',
+                    required: false,
+                    hidden: false,
+                    localized: false
+                },
+                {
+                    type: 'string',
+                    name: 'altText',
+                    label: 'Aria label',
+                    required: false,
+                    hidden: false,
+                    localized: false
+                }
+            ]
+        },
+        {
             type: 'string',
             name: 'altText',
             label: 'Alt text',

@@ -61,6 +61,8 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
+          link:
+            url: "/libros-recogida"
         colors: bg-light-fg-dark
         styles:
           self:
@@ -84,6 +86,8 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
+          link:
+            url: "/extraescolares"       # página interna          
         colors: bg-light-fg-dark
         styles:
           self:
@@ -107,6 +111,8 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
+          link:
+            url: "/madrugadores"
         colors: bg-light-fg-dark
         styles:
           self:
@@ -130,6 +136,8 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
+          link:
+            url: "/escuela-vacaciones"
         colors: bg-light-fg-dark
         styles:
           self:
@@ -153,6 +161,8 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
+          link:
+            url: "/fiestas"
         colors: bg-light-fg-dark
         styles:
           self:
@@ -176,6 +186,8 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
+          link:
+            url: "/movilidad"
         colors: bg-light-fg-dark
         styles:
           self:
@@ -211,7 +223,7 @@ sections:
     subtitle: Nuestro impacto en la vida escolar cada curso
     items:
       - type: FeaturedItem
-        title: 250 
+        title: 300
         subtitle: Familias
         text: >-
           Socias activas que colaboran y participan en la vida del colegio.
@@ -237,7 +249,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 800
+      - title: 1500
         subtitle: Libros de texto
         text: >-
           Ejemplares adquiridos a través del AMPA y repartidos a las familias al inicio de curso.
