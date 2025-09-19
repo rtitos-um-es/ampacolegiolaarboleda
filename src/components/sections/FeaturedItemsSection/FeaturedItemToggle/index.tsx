@@ -8,7 +8,18 @@ import PlusIcon from '../../../svgs/plus';
 import CloseIcon from '../../../svgs/close';
 
 export default function FeaturedItemToggle(props) {
-    const { elementId, title, subtitle, text, actions = [], colors = 'bg-light-fg-dark', styles = {}, hasSectionTitle } = props;
+    const {
+        elementId,
+        title,
+        subtitle,
+        text,
+        actions = [],
+        colors = 'bg-light-fg-dark',
+        styles = {},
+        hasSectionTitle,
+        image // 👈 NUEVO: imagen opcional
+    } = props;
+
     const fieldPath = props['data-sb-field-path'];
     const TitleTag = hasSectionTitle ? 'h3' : 'h2';
     const [isActive, setIsActive] = React.useState(false);
@@ -23,10 +34,10 @@ export default function FeaturedItemToggle(props) {
                 styles?.self?.padding ? mapStyles({ padding: styles?.self?.padding }) : undefined,
                 styles?.self?.borderWidth && styles?.self?.borderWidth !== 0 && styles?.self?.borderStyle !== 'none'
                     ? mapStyles({
-                          borderWidth: styles?.self?.borderWidth,
-                          borderStyle: styles?.self?.borderStyle,
-                          borderColor: styles?.self?.borderColor ?? 'border-primary'
-                      })
+                        borderWidth: styles?.self?.borderWidth,
+                        borderStyle: styles?.self?.borderStyle,
+                        borderColor: styles?.self?.borderColor ?? 'border-primary'
+                    })
                     : undefined,
                 styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined,
                 styles?.self?.textAlign ? mapStyles({ textAlign: styles?.self?.textAlign }) : undefined,
@@ -35,8 +46,30 @@ export default function FeaturedItemToggle(props) {
             data-sb-field-path={fieldPath}
         >
             {title && (
-                <TitleTag className="relative pr-8 cursor-pointer h3" onClick={() => setIsActive(!isActive)}>
+                <TitleTag
+                    className={classNames(
+                        'relative',
+                        'pr-8',
+                        'cursor-pointer',
+                        'h3',
+                        'flex',          // 👈 para alinear imagen + título
+                        'items-center',
+                        'gap-6'
+                    )}
+                    onClick={() => setIsActive(!isActive)}
+                >
+                    {/* 👇 NUEVO: imagen en la cabecera si existe */}
+                    {image?.url && (
+                        <img
+                            src={image.url}
+                            alt={image.altText || ''}
+                            className="h-40 w-auto rounded-2xl shrink-0 flex-none"
+                            {...(fieldPath && { 'data-sb-field-path': '.image' })}
+                        />
+                    )}
+
                     <span {...(fieldPath && { 'data-sb-field-path': '.title' })}>{title}</span>
+
                     <span className="absolute right-0 -translate-y-1/2 top-1/2">
                         <PlusIcon className={classNames('w-6', 'h-6', 'fill-current', isActive ? 'hidden' : null)} />
                         <CloseIcon className={classNames('w-6', 'h-6', 'fill-current', !isActive ? 'hidden' : null)} />
