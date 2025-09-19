@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: /extraescolares
+slug: /extraescolares-24-25
 sections:
   - type: GenericSection
     title:
