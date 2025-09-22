@@ -382,6 +382,11 @@ sections:
           type: ImageBlock
         text: >-
           • Judo iniciación: El Club Deportivo Kyomu tiene como objetivo que los pequeños judokas aprendan valores como el respeto, la disciplina, la amistad y la superación a través de las artes marciales.Con más de 20 años de experiencia y muchísimos judokas a nuestras espaldas podemos decir que el judo es el mejor deporte de iniciación para los niños/as, aprender a defenderse, a superarse, a transformar los miedos en vivencias, eso es lo que se llevan de este deporte a través de los años. Profesor de Judo, federado, licenciado y titulado. La extraescolar de Judo tendrá un coste de 25 € al mes para los socios del AMPA, 35 € al mes no socios.
+
+
+
+          Inscripción: 👉 [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScG9HBAGD-JWoYbMdnnkOkJrTJ_WW4lOrKQMk4LK3xYtgToZg/viewform)
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -437,6 +442,11 @@ sections:
           type: ImageBlock
         text: >-
           • Fútbol. Este año continuamos contando con la empresa Globality Sports. El precio de la actividad es de 23 € al mes asociados y 33 € al mes no socios. Mínimo 10 niños para comenzar la actividad.
+
+
+
+          Inscripción: 👉 [Email contacto](mailto:antoniomira@globalitysports.com)
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -490,7 +500,7 @@ sections:
 
 
 
-          Inscripción: 👉 [Email contacto](escueladeartistasirenejara@hotmail.com)
+          Inscripción: 👉 [Email contacto](mailto:escueladeartistasirenejara@hotmail.com)
 
         colors: bg-neutral-fg-dark
         styles:
@@ -658,6 +668,33 @@ sections:
             padding: [pt-8, pl-8, pb-8, pr-8]
             borderRadius: x-large
         type: FeaturedItem
+  - title:
+      text: Inscripciones extraescolares - Infantil
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Curso 2025-26
+    text: >-
+      <iframe src="/docs/extraescolares/extraescolares-infantil-horarios-25-26.pdf"
+              width="100%" height="700px" style="border:none;"></iframe>
+    badge:
+      label: Horario y ubicación
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
+
     actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
