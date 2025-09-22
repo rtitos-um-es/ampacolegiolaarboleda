@@ -3,6 +3,31 @@ title: Extraescolares
 slug: /extraescolares
 sections:
   - title:
+      text: Actividades extraescolares
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Curso 2025-26
+    text: >-
+      En esta página encontrarás toda la información sobre las actividades extraescolares ofertadas para el presente curso académico. En la sección desplegable de cada actividad tienes toda la información sobre la misma así como el enlace de inscripción.
+      <br/><br/>
+      • Nombre y apellidos del alumno/a<br/>
+      • Curso<br/>
+      • Fecha de nacimiento<br/>
+      • Teléfono de contacto<br/>
+      • Indicar si es socio del AMPA<br/>
+      • Indicar si acude a comedor<br/><br/>
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
+  - title:
       text: Cuadrante extraescolares - Infantil
       color: text-dark
       styles:
