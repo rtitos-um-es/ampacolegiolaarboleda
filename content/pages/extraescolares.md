@@ -668,32 +668,6 @@ sections:
             padding: [pt-8, pl-8, pb-8, pr-8]
             borderRadius: x-large
         type: FeaturedItem
-  - title:
-      text: Inscripciones extraescolares - Infantil
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Curso 2025-26
-    text: >-
-      <iframe src="/docs/extraescolares/extraescolares-infantil-horarios-25-26.pdf"
-              width="100%" height="700px" style="border:none;"></iframe>
-    badge:
-      label: Horario y ubicación
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
 
     actions: []
     variant: toggle-list
