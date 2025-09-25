@@ -117,7 +117,7 @@ sections:
           altText: Fútbol
           type: ImageBlock
         text: >-
-          • Fútbol. Dirigida a niños/as de 3º de infantil y 1º y 2º de primaria. Contamos de nuevo con la empresa Globality Sports. El precio de la actividad es de 23 € asociados al AMPA y 33 € no socios. Mínimo 10 niños para comenzar la actividad.
+          • Fútbol. Dirigida a niños/as de 3º de infantil y 1º y 2º de primaria. Contamos de nuevo con la empresa Globality Sports. El precio de la actividad es de 25 € asociados al AMPA y 35 € no socios. Mínimo 10 niños para comenzar la actividad.
 
 
 
@@ -441,7 +441,7 @@ sections:
           altText: Fútbol primaria
           type: ImageBlock
         text: >-
-          • Fútbol. Este año continuamos contando con la empresa Globality Sports. El precio de la actividad es de 23 € al mes asociados y 33 € al mes no socios. Mínimo 10 niños para comenzar la actividad.
+          • Fútbol. Este año continuamos contando con la empresa Globality Sports. El precio de la actividad es de 25 € al mes asociados y 35 € al mes no socios. Mínimo 10 niños para comenzar la actividad.
 
 
 
