@@ -36,8 +36,11 @@ sections:
       type: TitleBlock
     subtitle: Curso 2025-26
     text: >-
-      <iframe src="/docs/extraescolares/extraescolares-infantil-horarios-25-26.pdf"
-              width="100%" height="700px" style="border:none;"></iframe>
+      Este es el cuadrante final de las actividades extraescolares que se ofertan en este curso al cumplir el número mínimo de alumnos. Al final de la página puedes encontrar enlaces para consultar los horarios de todas las actividades ofertadas, tanto las que han salido finalmente como las que no.
+
+
+      <iframe src="/docs/extraescolares/extraescolares-infantil-horarios-25-26_final.pdf"
+              width="100%" height="600px" style="border:none;"></iframe>
     badge:
       label: Horario y ubicación
       color: text-primary
@@ -63,8 +66,11 @@ sections:
       type: TitleBlock
     subtitle: Curso 2025-26
     text: >-
-      <iframe src="/docs/extraescolares/extraescolares-primaria-horarios-25-26.pdf"
-              width="100%" height="900px" style="border:none;"></iframe>
+      Este es el cuadrante final de las actividades extraescolares que se ofertan en este curso al cumplir el número mínimo de alumnos. Al final de la página puedes encontrar enlaces para consultar los horarios de todas las actividades ofertadas, tanto las que han salido finalmente como las que no.
+
+
+      <iframe src="/docs/extraescolares/extraescolares-primaria-horarios-25-26_final.pdf"
+              width="100%" height="700px" style="border:none;"></iframe>
     badge:
       label: Horario y ubicación
       color: text-primary
@@ -666,7 +672,7 @@ sections:
         styles:
           self:
             padding: [pt-8, pl-8, pb-8, pr-8]
-            borderRadius: x-large
+          borderRadius: x-large
         type: FeaturedItem
 
     actions: []
@@ -679,6 +685,44 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+
+  - title:
+      text: Horarios y oferta completa
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Actividades ofertadas y no ofertadas por no cumplir el cupo mínimo
+    text: >-
+      Consulta y descarga los horarios completos de todas las actividades extraescolares ofertadas para este curso, incluidas aquellas que no han salido finalmente.
+    actions:
+      - label: Horarios Infantil
+        altText: ''
+        url: /docs/extraescolares/extraescolares-infantil-horarios-25-26.pdf
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
+      - label: Horarios Primaria
+        altText: ''
+        url: /docs/extraescolares/extraescolares-primaria-horarios-25-26.pdf
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding: [pt-12, pb-16, pl-3, pr-3]
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
 
 
 seo:
