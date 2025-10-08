@@ -9,17 +9,22 @@ sections:
       type: TitleBlock
     subtitle: 17 de octubre · CEIP La Arboleda
     text: >-
-      El próximo 17 de octubre nos sumamos a la campaña europea Streets For Kids
-      para reclamar calles escolares seguras en torno al CEIP La Arboleda. Entre
-      las 16:00 y las 19:00 h cerraremos al tráfico el entorno inmediato del
-      centro y lo convertiremos en un espacio de juego, talleres y convivencia.
+      El viernes 17 de octubre transformaremos la calle del CEIP La Arboleda en
+      un espacio seguro y divertido para el juego y la movilidad sostenible.
+      Street For Kids es la campaña europea que reclama calles escolares
+      abiertas para la infancia y libres de tráfico contaminante.
 
-      Queremos que las niñas y los niños disfruten de la calle con seguridad,
-      que las familias conozcan alternativas al coche y que el barrio sienta
-      la fuerza de nuestra comunidad educativa.
+      Recuperaremos la calle para disfrutarla sin coches, mostrar alternativas
+      de movilidad y compartir con el barrio la fuerza de nuestra comunidad
+      educativa.
     media:
       url: /images/movilidad/streets-for-kids-2025.png
       altText: Familias disfrutando de una calle escolar sin coches
+      styles:
+        self:
+          width: 60%
+          maxWidth: 520px
+          borderRadius: x-large
       type: ImageBlock
     colors: bg-light-fg-dark
     styles:
@@ -27,6 +32,16 @@ sections:
         alignItems: center
         flexDirection: row
         padding: [pt-16, pl-16, pb-16, pr-16]
+    actions:
+      - label: Campaña europea Streets For Kids
+        altText: ''
+        url: https://spain.cleancitiescampaign.org/streets-for-kids-otono-2025/
+        showIcon: false
+        icon: openInNew
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
 
   - type: GenericSection
     title:
@@ -35,10 +50,11 @@ sections:
       type: TitleBlock
     subtitle: Actividades previstas
     text: >-
-      • Juegos gigantes y zona de dibujo para los peques<br/>
-      • Taller de reparación rápida de bicis y patinetes<br/>
-      • Ruta guiada "camino escolar seguro" por el barrio<br/>
-      • Lectura del manifiesto por unas calles escolares permanentes
+      • Juegos tradicionales (comba, pañuelo, rayuela) y zona de dibujo en la calzada para los peques<br/>
+      • Carreras de obstáculos con bicis y patinetes<br/>
+      • Medición de emisiones en directo con apoyo audiovisual<br/>
+      • Lectura del manifiesto por unas calles escolares permanentes<br/>
+      • Charla final de concienciación con los alumnos para repasar resultados y fotos
     colors: bg-white-fg-dark
     styles:
       self:
@@ -46,37 +62,32 @@ sections:
 
   - type: GenericSection
     title:
-      text: Necesitamos voluntariado
+      text: ¿Quieres colaborar?
       color: text-dark
       type: TitleBlock
-    subtitle: Turnos de apoyo y tareas
+    subtitle: Necesitamos voluntarios para diversas tareas
     text: >-
-      Para que el evento salga perfecto necesitamos manos en varios puestos:
+      • Fotografías y vídeos del evento (también desde balcones o con dron)<br/>
+      • Impresión de cartelería para la jornada<br/>
+      • Traer un coche o una moto para comparar emisiones<br/>
+      • Traer bicis o patinetes y dinamizar las carreras de obstáculos<br/>
+      • Organizar juegos tradicionales (pañuelo, comba, cuerda, rayuelas)<br/>
+      • Preparar la pantalla del cole para mostrar las mediciones en tiempo real<br/>
+      • Acompañar al Bicibús, montar la calle escolar y apoyar en seguridad<br/>
+      • Impulsar la difusión en redes sociales (Twitter/X e Instagram)<br/>
+      • Repartir chocolate a las personas participantes
 
-      • Montaje y señalización de la calle escolar (15:00–16:00 h)<br/>
-      • Dinamización de actividades infantiles (16:00–19:00 h)<br/>
-      • Punto de información y recogida de firmas (16:00–18:30 h)<br/>
-      • Recogida y apertura al tráfico (19:00–19:30 h)
 
-      Completa el formulario para elegir tu turno disponible y te enviaremos la
-      hoja de ruta con todos los detalles.
+      El viernes cerraremos con una charla de concienciación junto al alumnado
+      para revisar las mediciones y todas las imágenes recogidas.
     actions:
-      - label: Apúntate como voluntario/a
+      - label: Únete al grupo de voluntariado (WhatsApp)
         altText: ''
-        url: https://forms.gle/streetforkids2025
+        url: https://chat.whatsapp.com/KXYXHkvLcY8H52D0eliZ5O
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ''
-        type: Button
-      - label: Escribe al equipo de movilidad
-        altText: ''
-        url: mailto:movilidad@ampalaarboleda.org
-        showIcon: false
-        icon: email
-        iconPosition: right
-        style: secondary
         elementId: ''
         type: Button
     colors: bg-light-fg-dark
