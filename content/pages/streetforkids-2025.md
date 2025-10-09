@@ -59,6 +59,14 @@ sections:
     styles:
       self:
         padding: [pt-12, pl-16, pb-12, pr-16]
+    media:
+      url: /images/movilidad/street-for-kids.png
+      altText: Calles para la infancia
+      styles:
+        self:
+          borderRadius: x-large
+          maxWidth: 520px
+      type: ImageBlock
 
   - type: GenericSection
     title:

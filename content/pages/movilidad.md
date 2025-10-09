@@ -58,7 +58,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/movilidad/bicibus-paradas.jpg
+      url: /images/movilidad/bicibus.jpg
       altText: Bicibús Santiago y Zaraiche
       elementId: ''
       type: ImageBlock
