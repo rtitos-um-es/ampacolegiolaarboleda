@@ -7,7 +7,7 @@ sections:
       text: Cómo hacerse soci@ del AMPA
       color: text-dark
       type: TitleBlock
-    subtitle: Familias unidas por la educación y la comunidad escolar
+    subtitle: Familias unidas formando una comunidad educativa
     text: >
       Hacerse socio del AMPA es sencillo y nos ayuda a seguir ofreciendo servicios como madrugadores, actividades extraescolares y eventos para toda la comunidad educativa.
       
