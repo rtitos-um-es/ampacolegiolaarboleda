@@ -27,6 +27,8 @@ The typical development process is to begin by working locally. Clone this repos
 
 Run the Next.js development server:
 
+(Remember to run npm install first)
+
 ```txt
 cd content-ops-starter
 npm run dev
