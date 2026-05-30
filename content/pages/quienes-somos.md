@@ -14,7 +14,7 @@ sections:
       Nuestra misión es apoyar a las familias y fortalecer la comunidad educativa. Nos centramos en facilitar la conciliación y el bienestar, organizando servicios y actividades útiles en el día a día. Coordinamos el reparto de libros de texto, ponemos en marcha actividades extraescolares que enriquecen la formación y ofrecemos el aula matinal o “madrugadores” para adaptarnos a distintos horarios. También organizamos eventos que refuerzan la convivencia, como la fiesta de fin de curso o los almuerzos de Navidad. Además, trabajamos por una movilidad escolar segura y saludable, fomentando ir al colegio a pie o en bicicleta y promoviendo campañas de concienciación para crear hábitos saludables y fomentar un entorno respetuoso en toda la comunidad educativa.
     actions:
       - label: Estatutos
-        url: https://ampalaarboleda.netlify.app/index-p-42
+        url: /docs/estatutos.pdf
         icon: arrowRight
         iconPosition: right
         style: primary
