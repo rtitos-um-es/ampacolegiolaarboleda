@@ -7,7 +7,7 @@ sections:
       text: Reserva de libros de texto
       color: text-dark
       type: TitleBlock
-    subtitle: Fechas y procedimiento
+    subtitle: Curso 25-26. Fechas y procedimiento
     text: >
       El AMPA organiza cada año la compra conjunta de los libros de texto para
       Infantil y los cursos de 1º y 2º de Primaria (a partir de 3º de Primaria, los alumnos participan en el programa de banco de libros gestionado por el propio colegio). De esta manera, el AMPA facilita a las familias la adquisición del material, garantizando que los libros correspondan exactamente con los solicitados por el colegio y obteniendo mejores condiciones en el proceso de compra.
@@ -16,19 +16,19 @@ sections:
       sigue los siguientes pasos:
 
       • El formulario de reserva se enviará a los grupos de WhatsApp de cada
-      clase el **30 de junio**. Cada familia deberá cumplimentar el
+      clase el **30 de junio de 2025**. Cada familia deberá cumplimentar el
       correspondiente al curso de su hijo/a.  
 
-      • La fecha límite de envío es el **miércoles 2 de julio a las 14:00 h**.  
+      • La fecha límite de envío es el **miércoles 2 de julio de 2025 a las 14:00 h**.
 
-      • El **jueves 3 de julio** se publicarán las listas provisionales en la
+      • El **jueves 3 de julio de 2025** se publicarán las listas provisionales en la
       web del AMPA (www.ampalaarboleda.com) y se enviarán también a los grupos
       de WhatsApp.  
 
       • En caso de error en los datos, deberá comunicarse al correo
       **librosampaarboleda@gmail.com**.  
 
-      • El **sábado 5 de julio** se publicarán las listas definitivas, momento a
+      • El **sábado 5 de julio de 2025** se publicarán las listas definitivas, momento a
       partir del cual no podrán realizarse modificaciones.  
 
       Este servicio está reservado a las familias socias del AMPA. Para poder
