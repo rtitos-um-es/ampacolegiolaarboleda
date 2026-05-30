@@ -4,21 +4,19 @@ slug: /escuela-vacaciones
 sections:
   - type: GenericSection
     title:
-      text: Escuela de vacaciones (Navidad, Semana Santa y verano)
+      text: Escuela de vacaciones
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Navidad, Semana Santa y verano
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Organizadas en el propio colegio y en el horario habitual de las clases lectivas, ofrecemos un espacio seguro lleno de talleres creativos y juegos. Desde el AMPA impulsamos esta alternativa ideal para conciliar, donde los niños disfrutan con sus amigos.
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/concilia/escuela-vacaciones.png
+      altText: Escuela de verano CEIP La Arboleda
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Conciliación
       color: text-primary
       type: Badge
     elementId: ''
@@ -32,8 +30,36 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - title:
+      text: Escuela de verano 
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Junio-Julio 2026
+    media:
+      url: /docs/concilia/2026-06-escuela-verano.jpeg
+      altText: Escuela de verano CEIP La Arboleda
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: Conciliación
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Escuela de verano
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo

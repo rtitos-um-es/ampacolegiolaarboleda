@@ -40,6 +40,33 @@ sections:
           - pb-16
           - pr-16
   - title:
+      text: Espérame Junio
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Curso 2025-26
+    text: >
+      <iframe src="/docs/concilia/2026-05-29-esperame.pdf"
+              width="100%" height="1200px" style="border:none;">
+      </iframe>
+    badge:
+      label: Conciliación
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
+  - title:
       text: Espérame 22 de Diciembre
       color: text-dark
       styles:
