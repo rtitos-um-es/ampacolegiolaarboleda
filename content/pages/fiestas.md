@@ -4,21 +4,32 @@ slug: /fiestas
 sections:
   - type: GenericSection
     title:
-      text: Fiestas
+      text: Fin de curso
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Curso 2025-26
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Termina el curso y toca celebrar todo el esfuerzo, las risas y los buenos momentos. Gracias a todas las familias que formáis el AMPA por hacer del cole un lugar más alegre y unido.
+      ¡Este año tiramos la casa por la ventana! Nos espera una jornada llena de emoción con:
+
+      - Castillos hinchables gigantescos.
+
+      - Una refrescante fiesta de la espuma.
+
+      - Batallas épicas con pistolas láser.
+
+
+      ¡Y eso no es todo! Para recargar energías después de tanta acción, no te olvides de pasar por nuestros puntos de venta, donde encontrarás comida, bebida y snacks para aguantar el ritmo.
+
+
+      ¡A disfrutar de la fiesta y de un merecido descanso! ¡Os esperamos a todos en el patio!
     media:
-      url: /images/main-hero.svg
+      url: /images/fiestas/2026-06-18-fiesta-fin-curso.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Fiestas
       color: text-primary
       type: Badge
     elementId: ''
