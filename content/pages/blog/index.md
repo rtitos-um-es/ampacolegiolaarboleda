@@ -10,6 +10,7 @@ topSections:
       type: TitleBlock
     subtitle: El tablón de anuncios del AMPA del CEIP La Arboleda
     posts:
+      - content/pages/blog/2026/fiesta-fin-curso.md
       - content/pages/blog/2025/nueva-web-ampa.md
     showThumbnail: true
     showExcerpt: true
