@@ -324,6 +324,7 @@ sections:
       subtitle:
         textAlign: center
   - posts:
+      - content/pages/blog/2026/fiesta-fin-curso.md
       - content/pages/blog/2025/nueva-web-ampa.md
     showThumbnail: true
     showDate: true

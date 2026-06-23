@@ -22,23 +22,19 @@ author: content/data/personAMPA.json
 ---
 
 ¡Qué gran fiesta hemos vivido! 🎉✨
-El pasado 18 de junio, la fiesta de fin de curso 2025-26 organizada por el AMPA reunió a familias, alumnado y voluntariado en un día de convivencia, alegría y muchas sonrisas.
+Desde el equipo del AMPA queremos daros las gracias a todas las familias por acompañarnos, participar y llenar este día de alegría, ilusión y sobretodo buen ambiente.
+No nos podemos olvidar de todas las personas voluntarias que han dedicado su tiempo, su esfuerzo y sus ganas para que todo saliera tan bien. Vuestra ayuda, antes, durante y después de la fiesta, ha sido fundamental. Gracias por vuestra generosidad, vuestra implicación y por demostrar, una vez más, el gran equipo que formamos cuando trabajamos juntos. 
+La fiesta ha salido más que genial, mejor de lo imaginado. Hemos compartido risas, juegos, música, emociones y un montón de momentos especiales que nos dejan el corazón lleno de felicidad. Ver a los niños disfrutar tanto, compartir con sus compañeros y vivir una jornada tan bonita ha sido, sin duda, lo mejor de todo.
+Entre todos hemos conseguido crear un día inolvidable, de esos que se recuerdan con una sonrisa durante mucho tiempo.
+Nos sentimos muy afortunados de contar con una comunidad educativa tan implicada y cercana.
+¡Gracias por hacerlo posible y por convertir esta fiesta en un auténtico éxito!
 
 ![](/images/blog/2026-06-fiesta-fin-curso-patio.jpeg)
-
-El patio se llenó de juegos, música y momentos para compartir. Ver a los niños disfrutar con sus compañeros, correr y bailar con libertad fue uno de los recuerdos más bonitos del día.
-
 ![](/images/blog/2026-06-fiesta-fin-curso-patio2.jpeg)
-
-No podemos olvidar a las familias que vinieron a colaborar: preparar actividades, acompañar en las zonas infantiles y transmitir calma y cercanía a todas las personas que asistieron.
-
 ![](/images/blog/2026-06-fiesta-fin-curso-pationinfantil.jpeg)
-
-Un agradecimiento muy especial a las personas voluntarias que dedicaron su tiempo y su energía para que todo saliera perfecto. Su entrega, antes, durante y después de la fiesta, ha sido clave para conseguir una jornada tan bien organizada.
-
 ![](/images/blog/2026-06-fiesta-fin-curso-voluntarios.jpeg)
 
-Entre todas y todos hemos creado un día inolvidable, de esos que se recuerdan siempre con una sonrisa. Estamos muy orgullosos de nuestra comunidad educativa, implicada, cercana y llena de ganas de celebrar juntos.
 
-¡Gracias por hacerlo posible y por convertir esta fiesta en un auténtico éxito!  
- 
+
+
+
