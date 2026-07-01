@@ -17,8 +17,8 @@ sections:
       el AMPA gestiona la compra con la librería o distribuidor. Posteriormente,
       se organiza la entrega en el propio colegio.
 
-      Recogida: la distribución de los lotes de libros se realiza en turnos
-      previamente comunicados a las familias para evitar esperas.
+
+      Las instruccinoes de para la recogida de libros para curso 2026-27 se publicarán próximamente.
 
     media:
       url: /images/inicio/libros.jpeg
@@ -40,33 +40,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - title:
-      text: Instrucciones
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Curso 2025-26
-    text: >
-      <iframe src="/docs/libros/2025-08-18-circular-reparto.pdf"
-              width="100%" height="1200px" style="border:none;">
-      </iframe>
-    badge:
-      label: Libros de texto
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
 seo:
   metaTitle: AMPA CEIP La Arboleda - Inicio
   metaDescription: Asociación de padres y madres de alumnos del Colegio La Arboleda (Santiago y Zaraiche, Murcia).
