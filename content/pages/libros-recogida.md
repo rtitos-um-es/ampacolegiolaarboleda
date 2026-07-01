@@ -12,7 +12,8 @@ sections:
       El AMPA organiza cada año la compra conjunta de los libros de texto para
       Infantil y los cursos de 1º y 2º de Primaria (a partir de 3º de Primaria, los alumnos participan en el programa de banco de libros gestionado por el propio colegio). De esta manera, el AMPA facilita a las familias la adquisición del material, garantizando que los libros correspondan exactamente con los solicitados por el colegio y obteniendo mejores condiciones en el proceso de compra.
 
-      Cómo funciona: las familias interesadas realizan la solicitud al AMPA y
+
+      Cómo funciona: las familias interesadas realizan la solicitud de reserva de libros al AMPA y
       efectúan el pago en el plazo establecido. Con todos los pedidos recibidos,
       el AMPA gestiona la compra con la librería o distribuidor. Posteriormente,
       se organiza la entrega en el propio colegio.
