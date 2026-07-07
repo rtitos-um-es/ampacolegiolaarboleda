@@ -574,7 +574,12 @@ sections:
 
           Horario: Lunes y miércoles (de 16:00 a 17:00 h).
 
-          Vídeo demostrativo pendiente de incorporar.
+          Vídeo de la actividad:
+
+          <video controls preload="metadata" poster="/videos/extraescolares/tenis-poster.jpg" style="width: 100%; max-width: 720px; border-radius: 16px;">
+            <source src="/videos/extraescolares/tenis-h264.mp4" type="video/mp4" />
+            Tu navegador no soporta la reproducción de vídeo.
+          </video>
 
         colors: bg-neutral-fg-dark
         styles:
