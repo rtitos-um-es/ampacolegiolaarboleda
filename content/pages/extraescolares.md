@@ -40,11 +40,12 @@ sections:
     subtitle: Curso 2026-27
     text: >-
       <img src="/docs/extraescolares/extraescolares-infantil-horarios-26-27.jpg"
-          alt="Precios madrugadores 2026-27"
+          alt="Extraescolares infantil 2026-27"
           style="display:block; max-width:100%; height:auto; margin:0 auto;">
       <br><br>
+
       <img src="/docs/extraescolares/extraescolares-primaria-horarios-26-27.jpg"
-          alt="Precios madrugadores 2026-27"
+          alt="Extraescolares primaria 2026-27"
           style="display:block; max-width:100%; height:auto; margin:0 auto;">
     badge:
       label: Horario y ubicación
@@ -99,7 +100,7 @@ sections:
       - title: Inglés
         subtitle: Infantil (Beyond English)
         image:
-          url: /images/extraescolares/ingles.jpeg
+          url: /images/extraescolares/ingles.png
           altText: Inglés
           type: ImageBlock
         text: |-
@@ -264,7 +265,7 @@ sections:
       - title: Circo
         subtitle: Infantil
         image:
-          url: /images/extraescolares/circo.jpeg
+          url: /images/extraescolares/circo2.png
           altText: Circo
           type: ImageBlock
         text: |-
@@ -374,7 +375,7 @@ sections:
       - title: Inglés Lúdico
         subtitle: Primaria
         image:
-          url: /images/extraescolares/ingles.jpeg
+          url: /images/extraescolares/ingles.png
           altText: Inglés Lúdico
           type: ImageBlock
         text: |-
@@ -488,7 +489,7 @@ sections:
       - title: Robótica
         subtitle: Primaria
         image:
-          url: /images/extraescolares/robotica.jpeg
+          url: /images/extraescolares/robotica.png
           altText: Robótica
           type: ImageBlock
         text: |-
@@ -668,7 +669,7 @@ sections:
       - title: Artes Plásticas
         subtitle: Primaria
         image:
-          url: /images/extraescolares/artes-plasticas.jpeg
+          url: /images/extraescolares/artes-plasticas.png
           altText: Artes Plásticas
           type: ImageBlock
         text: |-
@@ -693,7 +694,7 @@ sections:
       - title: Cómic y Manga
         subtitle: Primaria
         image:
-          url: /images/extraescolares/comic-manga.jpeg
+          url: /images/extraescolares/comic.png
           altText: Cómic y Manga
           type: ImageBlock
         text: |-

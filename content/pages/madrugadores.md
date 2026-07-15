@@ -44,7 +44,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: Precios
+      text: Precios e inscripción
       color: text-dark
       styles:
         self:
@@ -55,30 +55,7 @@ sections:
       <img src="/docs/concilia/2026-07-madrugadores-precios.jpg"
           alt="Precios madrugadores 2026-27"
           style="display:block; max-width:100%; height:auto; margin:0 auto;">
-    badge:
-      label: Madrugadores
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection          
-  - title:
-      text: Inscripción
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Curso 2026-27
-    text: >
+
       Para inscribir a su hijo en el servicio de *madrugadores*, tan solo deben cumplimentar la siguiente hoja de inscripción y entregarla en la puerta número 1 el primer día que vayan hacer uso de este servicio. No es necesario avisar con anterioridad. 
 
 
