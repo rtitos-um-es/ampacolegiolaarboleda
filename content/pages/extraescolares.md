@@ -139,7 +139,7 @@ sections:
 
           El precio de la actividad es de 25 € al mes para los socios del AMPA y 35 € al mes para no socios. Opcional licencia federativa para participar en eventos y homologar grados.
 
-          Inscripción: 👉 https://docs.google.com/forms/d/e/1FAIpQLScG9HBAGD-JWoYbMdnnkOkJrTJ_WW4lOrKQMk4LK3xYtgToZg/viewform
+          Inscripción: 👉 https://docs.google.com/forms/d/e/1FAIpQLSeaN2b0Hr3FmUdBlbYLsLrubg_cShbNoQkgtT_H6xY3ZIWYPQ/viewform
 
         colors: bg-neutral-fg-dark
         styles:
@@ -518,11 +518,11 @@ sections:
         type: FeaturedItem
 
 
-      - title: Judo iniciación
+      - title: Judo 
         subtitle: 3º Infantil, 1º y 2º de Primaria
         image:
           url: /images/extraescolares/judo.jpeg
-          altText: Judo iniciación primaria
+          altText: Judo primaria
           type: ImageBlock
         text: |-
           El Club Deportivo Kyomu tiene como objetivo que los pequeños judokas aprendan valores como el respeto, la disciplina, la amistad y la superación a través de las artes marciales.Con más de 20 años de experiencia y muchísimos judokas a nuestras espaldas podemos decir que el judo es el mejor deporte de iniciación para los niños/as, aprender a defenderse, a superarse, a transformar los miedos en vivencias, eso es lo que se llevan de este deporte a través de los años. Profesor de Judo, federado, licenciado y titulado. 
@@ -537,29 +537,6 @@ sections:
             padding: [pt-8, pl-8, pb-8, pr-8]
             borderRadius: x-large
         type: FeaturedItem
-
-      - title: Judo perfeccionamiento
-        subtitle: Primaria
-        image:
-          url: /images/extraescolares/judo-avanzado.jpeg
-          altText: Judo perfeccionamiento primaria
-          type: ImageBlock
-        text: |-
-          El Club Deportivo Kyomu retoma este curso las clases de judo para los más mayores.Tiene como objetivo que los judokas aprendan valores como el respeto, la disciplina, la amistad y la superación a través de las artes marciales.
-          
-          Con más de 20 años de experiencia y muchísimos judokas a nuestras espaldas podemos decir que el judo es el mejor deporte de iniciación para los niños/as, aprender a defenderse, a superarse, a transformar los miedos en vivencias, eso es lo que se llevan de este deporte a través de los años. Profesor de Judo, federado, licenciado y titulado. 
-          
-          El precio de la actividad es de 25 € al mes para socios del AMPA y 35 € al mes para no socios.
-
-          Inscripción: 👉 [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScG9HBAGD-JWoYbMdnnkOkJrTJ_WW4lOrKQMk4LK3xYtgToZg/viewform)
-          
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding: [pt-8, pl-8, pb-8, pr-8]
-            borderRadius: x-large
-        type: FeaturedItem
-
 
       - title: Tenis
         subtitle: 3º Infantil, 1º y 2º de Primaria
