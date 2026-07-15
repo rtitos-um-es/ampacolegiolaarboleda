@@ -30,9 +30,8 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-
   - title:
-      text: Cuadrante extraescolares - Infantil y Primaria
+      text: Horarios y ubicaciones
       color: text-dark
       styles:
         self:
@@ -40,8 +39,13 @@ sections:
       type: TitleBlock
     subtitle: Curso 2026-27
     text: >-
-      Próximamente se publicará el cuadrante final de las actividades extraescolares que se ofertan en este curso al cumplir el número mínimo de alumnos. Al final de la página puedes encontrar enlaces para consultar los horarios de todas las actividades ofertadas, tanto las que han salido finalmente como las que no.
-
+      <img src="/docs/extraescolares/extraescolares-infantil-horarios-26-27.jpg"
+          alt="Precios madrugadores 2026-27"
+          style="display:block; max-width:100%; height:auto; margin:0 auto;">
+      <br><br>
+      <img src="/docs/extraescolares/extraescolares-primaria-horarios-26-27.jpg"
+          alt="Precios madrugadores 2026-27"
+          style="display:block; max-width:100%; height:auto; margin:0 auto;">
     badge:
       label: Horario y ubicación
       color: text-primary
@@ -57,8 +61,9 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+
   - title:
-      text: Extraescolares Infantil
+      text: Oferta de actividades - Infantil
       color: text-dark
       styles:
         self:
@@ -300,7 +305,7 @@ sections:
     type: FeaturedItemsSection
 
   - title:
-      text: Extraescolares Primaria
+      text: Oferta de actividades - Primaria
       color: text-dark
       styles:
         self:
@@ -722,43 +727,6 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 
-  - title:
-      text: Horarios y oferta completa
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Curso 2026-27
-    text: >-
-      Consulta y descarga los horarios completos de todas las actividades extraescolares ofertadas para este curso, incluidas aquellas que no han salido finalmente.
-    actions:
-      - label: Horarios Infantil
-        altText: ''
-        url: /docs/extraescolares/extraescolares-infantil-horarios-26-27.pdf
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-      - label: Horarios Primaria
-        altText: ''
-        url: /docs/extraescolares/extraescolares-primaria-horarios-26-27.pdf
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding: [pt-12, pb-16, pl-3, pr-3]
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
 
 
 seo:

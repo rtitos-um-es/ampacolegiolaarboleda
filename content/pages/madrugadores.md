@@ -50,11 +50,11 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Curso 2025-26
+    subtitle: Curso 2026-27
     text: >
-      <iframe src="/docs/concilia/2025-09-madrugadores-precios.pdf"
-              width="100%" height="660px" style="border:none;">
-      </iframe>
+      <img src="/docs/concilia/2026-07-madrugadores-precios.jpg"
+          alt="Precios madrugadores 2026-27"
+          style="display:block; max-width:100%; height:auto; margin:0 auto;">
     badge:
       label: Madrugadores
       color: text-primary
@@ -77,12 +77,12 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Curso 2025-26
+    subtitle: Curso 2026-27
     text: >
       Para inscribir a su hijo en el servicio de *madrugadores*, tan solo deben cumplimentar la siguiente hoja de inscripción y entregarla en la puerta número 1 el primer día que vayan hacer uso de este servicio. No es necesario avisar con anterioridad. 
 
 
-      <iframe src="/docs/concilia/2025-09-madrugadores-inscripcion.pdf"
+      <iframe src="/docs/concilia/2026-07-madrugadores-inscripcion.pdf"
               width="100%" height="1200px" style="border:none;">
       </iframe>
     badge:
