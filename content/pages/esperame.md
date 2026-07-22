@@ -40,15 +40,15 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: Espérame Junio
+      text: Escuela de Septiembre 2026
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Curso 2025-26
+    subtitle: Curso 2026-27
     text: >
-      <iframe src="/docs/concilia/2026-05-29-esperame.pdf"
+      <iframe src="/docs/concilia/2026-09-esperame.pdf"
               width="100%" height="1200px" style="border:none;">
       </iframe>
     badge:
@@ -67,44 +67,26 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Espérame 22 de Diciembre
+      text: Curso 2025-26
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Curso 2025-26
     text: >
-      <iframe src="/docs/concilia/2025-12-22-esperame.pdf"
-              width="100%" height="1200px" style="border:none;">
-      </iframe>
-    badge:
-      label: Conciliación
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-  - title:
-      text: Espérame Septiembre
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Curso 2025-26
-    text: >
+
       <iframe src="/docs/concilia/2025-09-esperame.pdf"
               width="100%" height="1200px" style="border:none;">
       </iframe>
+
+      <iframe src="/docs/concilia/2025-12-22-esperame.pdf"
+              width="100%" height="1200px" style="border:none;">
+      </iframe>
+
+      <iframe src="/docs/concilia/2026-05-29-esperame.pdf"
+              width="100%" height="1200px" style="border:none;">
+      </iframe>
+
     badge:
       label: Conciliación
       color: text-primary

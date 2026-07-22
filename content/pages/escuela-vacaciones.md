@@ -58,6 +58,34 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - title:
+      text: Escuela de Septiembre
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Septiembre 2026
+    text: >
+      <iframe src="/docs/concilia/2026-09-esperame.pdf"
+              width="100%" height="1200px" style="border:none;">
+      </iframe>
+    badge:
+      label: Conciliación
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
+
 seo:
   metaTitle: Escuela de verano
   metaDescription: This demo site is built with Netlify Create.
