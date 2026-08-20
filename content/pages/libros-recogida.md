@@ -19,8 +19,6 @@ sections:
       se organiza la entrega en el propio colegio.
 
 
-      Las instruccinoes de para la recogida de libros para curso 2026-27 se publicarán próximamente.
-
     media:
       url: /images/inicio/libros.jpeg
       altText: Unblock your team boost your time to production preview
@@ -41,6 +39,41 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - title:
+      text: Instrucciones para la recogida y precio
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Curso 2026-27
+    text: >
+
+      <iframe src="/docs/libros/2026-08-20-instrucciones-recogida.pdf"
+              width="100%" height="1200px" style="border:none;">
+      </iframe>
+
+
+      <iframe src="/docs/libros/2026-08-20-precios_libros_2026-27.pdf"
+              width="100%" height="1200px" style="border:none;">
+      </iframe>
+
+
+    badge:
+      label: Libros de texto
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection          
 seo:
   metaTitle: AMPA CEIP La Arboleda - Inicio
   metaDescription: Asociación de padres y madres de alumnos del Colegio La Arboleda (Santiago y Zaraiche, Murcia).
