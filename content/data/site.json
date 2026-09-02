@@ -1,7 +1,7 @@
 {
     "favicon": "/images/ampa-logo.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "",
     "defaultSocialImage": "/images/abstract-feature2.svg",
     "type": "Config",
     "header": "content/data/header.json"
