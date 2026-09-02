@@ -67,7 +67,7 @@ sections:
       type: TitleBlock
     subtitle: Septiembre 2026
     text: >
-      <iframe src="/docs/concilia/2026-09-esperame.pdf"
+      <iframe src="/docs/concilia/2026-09-escuela-septiembre.pdf"
               width="100%" height="1200px" style="border:none;">
       </iframe>
     badge:

@@ -48,7 +48,7 @@ sections:
       type: TitleBlock
     subtitle: Curso 2026-27
     text: >
-      <iframe src="/docs/concilia/2026-09-esperame.pdf"
+      <iframe src="/docs/concilia/2026-09-escuela-septiembre.pdf"
               width="100%" height="1200px" style="border:none;">
       </iframe>
     badge:
@@ -67,7 +67,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Curso 2025-26
+      text: Espérame Septiembre 2026
       color: text-dark
       styles:
         self:
@@ -75,15 +75,7 @@ sections:
       type: TitleBlock
     text: >
 
-      <iframe src="/docs/concilia/2025-09-esperame.pdf"
-              width="100%" height="1200px" style="border:none;">
-      </iframe>
-
-      <iframe src="/docs/concilia/2025-12-22-esperame.pdf"
-              width="100%" height="1200px" style="border:none;">
-      </iframe>
-
-      <iframe src="/docs/concilia/2026-05-29-esperame.pdf"
+      <iframe src="/docs/concilia/2026-09-esperame.pdf"
               width="100%" height="1200px" style="border:none;">
       </iframe>
 
