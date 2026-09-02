@@ -474,7 +474,7 @@ sections:
 
           El precio de la actividad es de 29 € para socios del AMPA y 39 € para no socios.
 
-          Inscripciones: 👉 https://docs.google.com/forms/d/e/1FAIpQLSdohnmrMJgvHtNAThbgMfiCAisFC3fRp_lBuSxgRmTnSl6AQ/viewform
+          Inscripciones: 👉 https://docs.google.com/forms/d/e/1FAIpQLSdohnmrMJgvHtNA-ThbgMfiCAisFC3fRp_lBuSxgRmTnSl6AQ/viewform
 
           Web: https://www.ajedrezfacil.com
 
