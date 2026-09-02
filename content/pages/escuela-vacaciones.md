@@ -87,8 +87,8 @@ sections:
     type: GenericSection
 
 seo:
-  metaTitle: Escuela de verano
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Escuela de vacaciones | AMPA CEIP La Arboleda
+  metaDescription: Información sobre la escuela de vacaciones del AMPA CEIP La Arboleda durante verano, Navidad y Semana Santa.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

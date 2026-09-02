@@ -135,8 +135,8 @@ sections:
           - pr-16
           
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Movilidad escolar | AMPA CEIP La Arboleda
+  metaDescription: Iniciativas de movilidad escolar sostenible y segura del AMPA CEIP La Arboleda, incluido el bicibús y Streets for Kids.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

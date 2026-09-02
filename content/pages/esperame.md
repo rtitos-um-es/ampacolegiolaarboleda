@@ -95,8 +95,8 @@ sections:
         textAlign: center
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Espérame | AMPA CEIP La Arboleda
+  metaDescription: Servicio Espérame del AMPA CEIP La Arboleda para facilitar la conciliación familiar en horarios no lectivos.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

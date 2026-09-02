@@ -104,8 +104,8 @@ sections:
         padding: [pt-12, pl-16, pb-16, pr-16]
 
 seo:
-  metaTitle: Streets For Kids 2025 · Voluntariado
-  metaDescription: Toda la información sobre el Streets For Kids 2025 del CEIP La Arboleda y cómo participar como voluntario en la calle escolar.
+  metaTitle: Streets for Kids 2025 | AMPA CEIP La Arboleda
+  metaDescription: Participa como voluntario en Streets for Kids 2025 y ayuda a crear una calle escolar más segura junto al CEIP La Arboleda.
   socialImage: /images/streets-for-kids.jpg
   type: Seo
 type: PageLayout

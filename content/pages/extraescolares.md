@@ -708,8 +708,8 @@ sections:
 
 
 seo:
-  metaTitle: Extraescolares 2026-27 - AMPA CEIP La Arboleda
-  metaDescription: Actividades extraescolares 2026-27 del AMPA del CEIP La Arboleda (Infantil y Primaria) con imágenes en cabecera, textos íntegros y cuadrantes horarios incrustados.
+  metaTitle: Extraescolares 2026-27 | AMPA CEIP La Arboleda
+  metaDescription: Consulta las actividades extraescolares del curso 2026-27, sus horarios y la información para el alumnado del CEIP La Arboleda.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

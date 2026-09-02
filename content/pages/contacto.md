@@ -128,8 +128,8 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Quienes somos - AMPA CEIP La Arboleda
-  metaDescription: Conoce la misión, estatutos, junta directiva y comisiones del AMPA CEIP La Arboleda (Santiago y Zaraiche, Murcia), así como los servicios y actividades que apoyan a las familias.
+  metaTitle: Contacto | AMPA CEIP La Arboleda
+  metaDescription: Ponte en contacto con el AMPA del CEIP La Arboleda para resolver dudas, colaborar o recibir información sobre sus actividades.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

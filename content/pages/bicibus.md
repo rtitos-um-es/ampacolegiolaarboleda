@@ -96,8 +96,8 @@ sections:
         padding: [pt-12, pl-16, pb-16, pr-16]
 
 seo:
-  metaTitle: Bicibús Santiago y Zaraiche · AMPA CEIP La Arboleda
-  metaDescription: Horarios, paradas y recomendaciones para unirte al bicibús de Santiago y Zaraiche organizado por el AMPA del CEIP La Arboleda.
+  metaTitle: Bicibús de Santiago y Zaraiche | AMPA CEIP La Arboleda
+  metaDescription: Consulta las rutas, paradas, horarios y recomendaciones para unirte al bicibús del CEIP La Arboleda en Santiago y Zaraiche.
   socialImage: /images/movilidad/bicibus-paradas.jpg
   type: Seo
 type: PageLayout

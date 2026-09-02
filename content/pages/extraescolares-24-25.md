@@ -513,8 +513,8 @@ sections:
         textAlign: center
     type: ImageGallerySection
 seo:
-  metaTitle: AMPA CEIP La Arboleda - Inicio
-  metaDescription: Asociación de padres y madres de alumnos del Colegio La Arboleda (Santiago y Zaraiche, Murcia).
+  metaTitle: Extraescolares 2024-25 | AMPA CEIP La Arboleda
+  metaDescription: Consulta las actividades extraescolares del curso 2024-25 organizadas para el alumnado de Infantil y Primaria del CEIP La Arboleda.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

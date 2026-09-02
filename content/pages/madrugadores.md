@@ -78,8 +78,8 @@ sections:
         textAlign: center
     type: GenericSection          
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Madrugadores | AMPA CEIP La Arboleda
+  metaDescription: Servicio de aula matinal Madrugadores del AMPA CEIP La Arboleda para facilitar la conciliación antes del inicio de las clases.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

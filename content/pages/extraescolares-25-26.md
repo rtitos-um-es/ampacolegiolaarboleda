@@ -726,8 +726,8 @@ sections:
 
 
 seo:
-  metaTitle: Extraescolares 2025-26 - AMPA CEIP La Arboleda
-  metaDescription: Actividades extraescolares 2025-26 del AMPA del CEIP La Arboleda (Infantil y Primaria) con imágenes en cabecera, textos íntegros y cuadrantes horarios incrustados.
+  metaTitle: Extraescolares 2025-26 | AMPA CEIP La Arboleda
+  metaDescription: Consulta las actividades extraescolares del curso 2025-26, sus horarios y la información para el alumnado del CEIP La Arboleda.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

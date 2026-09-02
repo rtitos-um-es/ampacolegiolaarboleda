@@ -75,8 +75,8 @@ sections:
         textAlign: center
     type: GenericSection          
 seo:
-  metaTitle: AMPA CEIP La Arboleda - Inicio
-  metaDescription: Asociación de padres y madres de alumnos del Colegio La Arboleda (Santiago y Zaraiche, Murcia).
+  metaTitle: Recogida de libros de texto | AMPA CEIP La Arboleda
+  metaDescription: Consulta cómo y cuándo recoger los libros de texto gestionados por el AMPA para el alumnado del CEIP La Arboleda.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

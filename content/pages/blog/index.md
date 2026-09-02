@@ -32,9 +32,8 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Noticias del AMPA CEIP La Arboleda
-  metaDescription: >-
-    Blog con noticias sobre el AMPA del Colegio La Arboleda.
+  metaTitle: Noticias y actualidad | AMPA CEIP La Arboleda
+  metaDescription: Consulta las noticias, actividades, avisos y novedades del AMPA del CEIP La Arboleda para las familias del colegio.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout

@@ -31,8 +31,8 @@ sections:
           - pb-16
           - pr-16
 seo:
-  metaTitle: AMPA CEIP La Arboleda - Inicio
-  metaDescription: Asociación de padres y madres de alumnos del Colegio La Arboleda (Santiago y Zaraiche, Murcia).
+  metaTitle: Banco de libros | AMPA CEIP La Arboleda
+  metaDescription: Información del banco de libros de texto para el alumnado de Primaria del CEIP La Arboleda.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

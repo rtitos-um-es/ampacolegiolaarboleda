@@ -15,8 +15,8 @@ featuredImage:
       borderRadius: medium
 isFeatured: true
 seo:
-  metaTitle: Inauguración de la nueva web del AMPA
-  metaDescription: El AMPA La Arboleda presenta su nueva web en ampalaarboleda.org con diseño renovado, mejor adaptación a móviles y contenidos actualizados para todas las familias.
+  metaTitle: Nueva web del AMPA | CEIP La Arboleda
+  metaDescription: Conoce la nueva web del AMPA CEIP La Arboleda, diseñada para facilitar el acceso a información y actividades de las familias.
   socialImage: /images/blog/web-inauguracion.jpg
   type: Seo
 colors: bg-light-fg-dark

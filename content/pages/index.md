@@ -371,8 +371,8 @@ sections:
         textAlign: center
     type: ImageGallerySection
 seo:
-  metaTitle: AMPA CEIP La Arboleda - Inicio
-  metaDescription: Asociación de padres y madres de alumnos del Colegio La Arboleda (Santiago y Zaraiche, Murcia).
+  metaTitle: AMPA CEIP La Arboleda | Santiago y Zaraiche, Murcia
+  metaDescription: "Información del AMPA del CEIP La Arboleda: actividades, extraescolares, libros de texto, servicios y participación familiar."
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

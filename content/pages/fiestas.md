@@ -44,8 +44,8 @@ sections:
           - pb-16
           - pr-16
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Fiesta de fin de curso | AMPA CEIP La Arboleda
+  metaDescription: Toda la información sobre la fiesta de fin de curso del CEIP La Arboleda, organizada para disfrutar en familia.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
