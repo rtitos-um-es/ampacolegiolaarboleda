@@ -48,6 +48,9 @@ sections:
 
 
       Si te animas a participar, a continuación encontrarás toda la información detallada sobre nuestro bicibús.
+
+
+      Tenemos un grupo de WhatsApp donde compartimos fotos del bicibús, nos comunicamos por temas de logística (cambios de horario, incidencias, meteorología) y nos coordinamos entre familias.
     actions:
       - label: Rutas y horarios del bicibús Santiago y Zaraiche
         altText: ''
@@ -55,6 +58,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        elementId: ''
+        type: Button
+      - label: Unirme al grupo de WhatsApp del bicibús
+        altText: ''
+        url: https://chat.whatsapp.com/IDTICNd9PAC9N5bfKGRSeM
+        showIcon: true
+        icon: whatsapp
+        iconPosition: left
+        style: secondary
         elementId: ''
         type: Button
     media:

@@ -122,6 +122,10 @@ export const Button: Model = {
           value: 'send'
         },
         {
+          label: 'WhatsApp',
+          value: 'whatsapp'
+        },
+        {
           label: 'Shopping bag',
           value: 'shoppingBag'
         },
